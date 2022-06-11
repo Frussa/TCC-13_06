@@ -1,0 +1,813 @@
+###24386101
+OBJECTIVE	Sarcoplasmic reticulum ( SR ) Ca ( 2 + ) - handling proteins play an important role in myocardial dysfunction after acute ischemia/reperfusion injury .
+OBJECTIVE	We hypothesized that nitrite would improve postresuscitation myocardial dysfunction by increasing nitric oxide ( NO ) generation and that the mechanism of this protection is related to the modulation of SR Ca ( 2 + ) - handling proteins .
+METHODS	We conducted a randomized prospective animal study using male Sprague-Dawley rats .
+METHODS	Cardiac arrest was induced by intravenous bolus of potassium chloride ( 40 g/g ) .
+METHODS	Nitrite ( 1.2 nmol/g ) or placebo was administered when chest compression was started .
+METHODS	No cardiac arrest was induced in the sham group .
+METHODS	Hemodynamic parameters were monitored invasively for 90 minutes after the return of spontaneous circulation ( ROSC ) .
+METHODS	Echocardiogram was performed to evaluate cardiac function .
+METHODS	Myocardial samples were harvested 5 minutes and 1 hour after ROSC .
+RESULTS	Myocardial function was significantly impaired in the nitrite and placebo groups after resuscitation , whereas cardiac function ( i.e. , ejection fraction and fractional shortening ) was significantly greater in the nitrite group than in the placebo group .
+RESULTS	Nitrite administration increased the level of nitric oxide in the myocardium 5 min after resuscitation compared to the other two groups .
+RESULTS	The levels of phosphorylated phospholamban ( PLB ) were decreased after resuscitation , and nitrite increased the phosphorylation of phospholamban compared to the placebo .
+RESULTS	No significant differences were found in the expression of sarcoplasmic reticulum Ca ( 2 + ) ATPase ( SERCA2a ) and ryanodine receptors ( RyRs ) .
+CONCLUSIONS	postresuscitation myocardial dysfunction is associated with the impairment of PLB phosphorylation .
+CONCLUSIONS	Nitrite administered during resuscitation improves postresuscitation myocardial dysfunction by preserving phosphorylated PLB protein during resuscitation .
+
+###24462012
+BACKGROUND	Group medical clinics may improve diabetes and hypertension control , but data about dyslipidemia are limited .
+BACKGROUND	We examined the impact of group medical clinics on lipids among patients with uncontrolled diabetes and hypertension .
+METHODS	Prespecified secondary analysis of 239 veterans randomized to group medical clinics or usual care .
+METHODS	Lipids were assessed at study baseline , midpoint , and end .
+METHODS	We used linear mixed models to compare lipid levels between arms and generalized estimating equation models to compare low-density lipoprotein cholesterol ( LDL-C ) goal attainment .
+METHODS	An additional post hoc analysis examined intensification of cholesterol-lowering medications in both arms .
+RESULTS	At baseline , mean total cholesterol was 169.7 mg/dL ( SD 47.8 ) , LDL-C 98.2 mg/dL ( SD 41.7 ) , and high-density lipoprotein cholesterol ( HDL-C ) 39.3 mg/dL ( SD 13.0 ) .
+RESULTS	Median baseline triglycerides were 131 mg/dL ( interquartile range 122 ) .
+RESULTS	By study end , mean total cholesterol and LDL-C in group medical clinics were 14.2 mg/dL ( P = .01 ) and 9.2 mg/dL ( P = .02 ) lower than usual care , respectively ; 76 % of group medical clinic patients met goals for LDL-C , versus 61 % of usual care patients ( P = .02 ) .
+RESULTS	Triglycerides and HDL-C remained similar between study arms .
+RESULTS	Treatment intensification occurred in 52 % of group medical clinic patients , versus 37 % of usual care patients between study baseline and end ( P = .04 ) .
+RESULTS	The mean statin dose was higher in group medical clinic patients at study midpoint and end .
+CONCLUSIONS	Group medical clinics appear to enhance lipid management among patients with diabetes and hypertension .
+CONCLUSIONS	This may be a result of greater intensification of cholesterol-lowering medications in group medical clinics relative to usual care .
+
+###25015735
+BACKGROUND	Red ginseng is prepared by steaming raw ginseng , a process believed to increase the pharmacological efficacy .
+BACKGROUND	Further bioconversion of red ginseng through fermentation is known to increase its intestinal absorption and bioactivity , and bioconversion diminishes the toxicity of red ginseng 's metabolite .
+BACKGROUND	This study was conducted to investigate the effects of daily supplementation with fermented red ginseng ( FRG ) on glycemic status in subjects with impaired fasting glucose or type 2 diabetes .
+METHODS	This study was a four-week long , randomized , double-blind , placebo-controlled trial .
+METHODS	Forty-two subjects with impaired fasting glucose or type 2 diabetes were randomly allocated to two groups assigned to consume either the placebo or fermented red ginseng ( FRG ) three times per day for four weeks .
+METHODS	Fasting and postprandial glucose profiles during meal tolerance tests were assessed before and after the intervention .
+RESULTS	FRG supplementation led to a significant reduction in postprandial glucose levels and led to an increase in postprandial insulin levels compared to the placebo group .
+RESULTS	There was a consistently significant improvement in the glucose area under the curve ( AUC ) in the FRG group .
+RESULTS	However , fasting glucose , insulin , and lipid profiles were not different from the placebo group .
+CONCLUSIONS	Daily supplementation with FRG lowered postprandial glucose levels in subjects with impaired fasting glucose or type 2 diabetes .
+BACKGROUND	ClinicalTrials.gov : NCT01826409 .
+
+###24345834
+OBJECTIVE	The aim of the study was to determine whether docosahexaenoic acid ( DHA ) supplementation improves the behavior of children with autism .
+METHODS	A group of 3 - to 10-year-old children with autism were randomized in a double-blind fashion to receive a supplement containing 200 mg of DHA or a placebo for 6 months .
+METHODS	The parents and the investigator completed the Clinical Global Impressions-Improvement scale to rate changes in core symptoms of autism after 3 and 6 months .
+METHODS	The parents completed the Child Development Inventory and the Aberrant Behavior Checklist , and both parents and teachers completed the Behavior Assessment Scale for Children ( BASC ) at enrollment and after 6 months .
+RESULTS	A total of 48 children ( 40 [ 83 % ] boys , mean age [ standard deviation ] 6.1 [ 2.0 ] years ) were enrolled ; 24 received DHA and 24 placebo .
+RESULTS	Despite a median 431 % increase in total plasma DHA levels after 6 months , the DHA group was not rated as improved in core symptoms of autism compared to the placebo group on the CGI-I .
+RESULTS	Based on the analysis of covariance models adjusted for the baseline rating scores , parents ( but not teachers ) provided a higher average rating of social skills on the BASC for the children in the placebo group compared to the DHA group ( P = 0.04 ) , and teachers ( but not parents ) provided a higher average rating of functional communication on the BASC for the children in the DHA group compared to the placebo group ( P = 0.02 ) .
+CONCLUSIONS	Dietary DHA supplementation of 200 mg/day for 6 months does not improve the core symptoms of autism .
+CONCLUSIONS	Our results may have been limited by inadequate sample size .
+
+###24449716
+OBJECTIVE	We evaluated the efficacy and safety of an early invasive strategy post-fibrinolysis in relation to glycoprotein ( GP ) IIb/IIIa inhibitor use .
+METHODS	The Trial of Routine Angioplasty and Stenting after Fibrinolysis to Enhance Reperfusion in Acute Myocardial Infarction ( TRANSFER-AMI ) randomised 1059 ST elevation myocardial infarction patients to an early invasive strategy or standard therapy post-fibrinolysis .
+METHODS	The primary end point was the composite of death , reinfarction , recurrent ischaemia , new or worsening heart failure , or cardiogenic shock at 30 days .
+METHODS	In this pre-specified analysis , we examined efficacy and safety outcomes of an early invasive strategy after stratification by GPIIb/IIIa inhibitor use , which was permitted during percutaneous coronary intervention ( PCI ) at the discretion of the treating physician .
+RESULTS	A total of 695 patients ( 65.6 % ) received GPIIb/IIIa inhibitors .
+RESULTS	There was significant heterogeneity ( p < 0.001 ) in the efficacy of an early invasive strategy compared to standard therapy , between the strata with GPIIb/IIIa inhibitor use ( primary end point 9.6 % vs 22.3 % respectively , p < 0.001 ) and without GPIIb/IIIa inhibitor use ( primary end point 14.8 % vs 10.4 % respectively , p = 0.21 ) .
+RESULTS	Patients who received GPIIb/IIIa inhibitors had lower Global Registry of Acute Coronary Events ( GRACE ) risk scores compared to those without GPIIb/IIIa inhibitor use ( median 121 vs 130 , p < 0.001 ) .
+RESULTS	After adjusting for the interaction between GRACE risk score and treatment assignment , the heterogeneity in the efficacy of an early invasive strategy with respect to GPIIb/IIIa inhibitor use was no longer significant ( p interaction = 0.08 ) .
+CONCLUSIONS	The apparent difference in the efficacy of an early invasive strategy between GPIIb/IIIa inhibitor strata likely reflects an association between GPIIb/IIIa inhibitor use and baseline risk .
+CONCLUSIONS	GPIIb/IIIa inhibitor use during PCI at the discretion of the treating physician does not appear to modulate the efficacy of an early invasive strategy post-fibrinolysis .
+BACKGROUND	http://www.clinicaltrials.gov/ct2/show/NCT00164190 , NCT00164190 .
+
+###25411141
+OBJECTIVE	To determine the safety and efficacy of a 50 ns Q switched Nd YAG laser vs. a 5 ns Q switched Nd YAG laser for clearance of melasma .
+OBJECTIVE	To compare subject satisfaction , efficacy , and comfort level between the two lasers .
+METHODS	This is a prospective , randomized split face clinical study .
+METHODS	The study was approved by the Scripps IRB .
+METHODS	Ten healthy female subjects with moderate to severe melasma were enrolled .
+METHODS	Each subject had three laser treatments one month apart .
+METHODS	Patients were followed up approximately 1 month , 3 months , and 6 months after the final laser treatment .
+METHODS	A treatment session consisted of a microdermabrasion , 1064 nm QS laser , and topicals .
+METHODS	Subjects were asked to rate treatment pain based on a numerical scale range 0-10 ( 0 = no pain and 10 = worst pain ) .
+METHODS	A melasma area and severity index ( MASI ) grading system was applied .
+METHODS	Also , melanin measurements were acquired by a reflectance spectrophotometer .
+METHODS	Side effects were documented during the study including post treatment erythema .
+RESULTS	Eight patients completed the study .
+RESULTS	Subjects showed improvement on both sides of the face .
+RESULTS	From baseline to 1 month post the final laser treatment , the average MASI scores showed a 16 % reduction for the 50 ns QS 1064 nm laser vs. a 27 % reduction for the 5 ns QS 1064 nm laser ( both significant versus baseline pigment , P < 0.05 ) .
+RESULTS	This difference in MASI scores between the two lasers was not statistically significant ( P = 0.87930 ) .
+RESULTS	Laser treatments displayed mild erythema that resolved after one day .
+RESULTS	The melanin meter measurements showed a reduction in pigment readings on both sides .
+RESULTS	Three months after the final treatment there was some relapse in the melasma , as the mean pigment reduction fell to 12 % for the 50 ns laser and 11 % for the 5 ns laser .
+RESULTS	By 3 months pigment reduction was not statistically significant for either laser , and no significant differences in pigment reduction were noted between the two pulse durations .
+RESULTS	There was a statistically significant difference ( P < 0.05 ) in pain scores reported by the subjects ( scale 0-10 ) , the mean pain score for 50 ns QS 1064 nm laser was 1.2 and for the 5 ns QS 2.9 the score was 2.9 .
+CONCLUSIONS	In this study , we showed that a combination of microdermabrasion , QS1064 nm laser , and topicals decreased the MASI and meter scores without clinically significant side effects .
+CONCLUSIONS	Moreover , the longer pulsed Q switched 1064 nm laser i.e. ( 50 ns ) was associated with less pain than its shorter pulse width counterpart .
+
+###25038558
+BACKGROUND	Evidence supports that adequate treatment of hyperglycemia , hypercholesterolemia , and hypertension can reduce morbidity and mortality in people with diabetes , however achieving treatment goals remains elusive .
+BACKGROUND	The majority of diabetes care occurs in the primary care setting ; however there are often missed opportunities for timely intervention during office visits .
+BACKGROUND	This paper describes a systematic redesign of current diabetes treatment in primary care by implementing evidence-based protocols .
+METHODS	This is a cluster randomized controlled trial using certified diabetes educators ( CDEs ) to intensify therapeutic management .
+METHODS	Fifteen primary care practices from the University of Pittsburgh Medical Center were recruited .
+METHODS	Practices were randomized to intervention ( implementation of diabetes management protocols ) or usual care .
+METHODS	Eligibility criteria included diagnosis of type 2 diabetes at least one year prior to baseline and an A1C 7 % , LDLc 100 mg/dl or blood pressure 130/80 mmHg which were the goal levels established by the American Diabetes Association at study inception .
+METHODS	Treatment was intensified according to preapproved protocols .
+METHODS	Participants also received diabetes education during their visits .
+METHODS	Research assessments were done at baseline , three , six and twelve months .
+METHODS	Clinical visits were scheduled between research visits , as needed , to adjust medications .
+METHODS	Primary outcomes were achievement of glycemic , blood pressure , or lipid control goals .
+METHODS	Secondary outcomes included quality of life , medication and diabetes care satisfaction , medication adherence , and cost-effectiveness .
+CONCLUSIONS	Results from this study will provide the evidence to support expanded roles for CDEs in primary care .
+CONCLUSIONS	Using this model to deliver diabetes care may offer a more cost-effective approach for diabetes management .
+
+###25513965
+BACKGROUND	Long-term oral anticoagulant treatment is obligatory in patients with atrial fibrillation ( AF , score of CHADSVASc2 ) .
+BACKGROUND	When these patients undergo percutaneous coronary intervention with a drug-eluting stent ( PCI-eS ) , there is also an indication for aspirin and clopidogrel treatment , according to the ESC Guidelines .
+BACKGROUND	However , triple therapy has been known to increase the risk of bleeding complications .
+BACKGROUND	Unfortunately , there is little prospective data available to resolve this issue .
+BACKGROUND	Therefore , it is imperative that an optimal therapy for AF patients with indications of both anticoagulation and antiplatelet intervention to prevent thrombotic complications without increasing the risk of bleeding is found .
+OBJECTIVE	This prospective , randomized , multicenter study is going to assess the hypothesis that in persistent or permanent AF patients ( score of CHADSVASc2 ) after PCI-eS , the combination therapy of oral anticoagulation ( warfarin ) and ticagrelor ( 90 mg/bid ) could reduce the risk of bleeding events .
+METHODS	A multicenter , active-controlled , open-label , randomized trial is to be performed to evaluate dual antithrombotic therapy ( ticagrelor + warfarin ) in persistent or permanent AF patients ( score of CHADSVASc2 ) after PCI-eS versus the combination of triple antithrombosis ( clopidogrel + aspirin + warfarin ) .
+METHODS	The primary endpoint is the overall bleeding up to 6 months , according to TIMI criteria and classifications .
+METHODS	The secondary endpoints are the major bleeding events up to 6 months , according to TIMI criteria .
+METHODS	The sample size is estimated at 296 .
+CONCLUSIONS	This study is intended to provide information about the safety characteristics of warfarin and ticagrelor in persistent or permanent AF patients after PCI-eS .
+CONCLUSIONS	No prospective randomized study has been conducted on the issue of antithrombotic therapy using warfarin and ticagrelor in these patients .
+CONCLUSIONS	Therefore , the MANJUSRI trial will help to explore and determine a new potential therapeutic regimen for AF patients after PCI-eS .
+BACKGROUND	Clinical Trials.gov # NCT02206815 , registered July 30 , 2014 .
+
+###25220844
+BACKGROUND	Acute stress produces behavioral and physiological changes modulated by central catecholamines ( CA ) .
+BACKGROUND	Stress increases CA activity , and depletion of CA stores reduces responses to stress .
+BACKGROUND	Increasing CA activity by administration of the dietary amino acid CA precursor tyrosine may increase responsiveness to stress .
+BACKGROUND	This study determined whether tyrosine enhances the ability of humans to respond to severe stress .
+METHODS	Severe psychological stress was generated during training at Survival , Evasion , Resistance , and Escape ( SERE ) School .
+METHODS	The acute stressor consisted of two mock interrogations conducted during several days of simulated captivity .
+METHODS	Seventy-eight healthy male and female military personnel participated in this double-blind , between-subjects study , in which they received either tyrosine ( 300mg/kg , N = 36 ) or placebo ( N = 36 ) .
+METHODS	Tyrosine ( or placebo ) was administered in food bars in two doses of 150mg/kg each approximately 60min before each mock interrogation .
+METHODS	Mood ( Profile of Mood States ) , saliva cortisol , and heart rate ( HR ) were assessed prior to stress exposure during a week of academic training preceding mock captivity and immediately following the mock interrogations .
+RESULTS	The severe stress produced robust effects on mood ( i.e. , increased tension , depression , anger , fatigue , vigor , and confusion ; p < .001 ) , cortisol , and HR ( p < .001 ) .
+RESULTS	Tyrosine increased anger ( p = .002 , ANOVA treatment condition by test session interaction ) during stress but had no other effects .
+CONCLUSIONS	Tyrosine did not alter most subjective or physiological responses to severe acute stress , but it increased ratings of anger .
+CONCLUSIONS	The modest increase in anger may be an adaptive emotional response in stressful environments .
+
+###25257291
+BACKGROUND	Org 25935 is a glycine transporter inhibitor that increases extracellular glycine levels and attenuates alcohol-induced dopaminergic activity in the nucleus accumbens .
+BACKGROUND	In animal models , Org 25935 has dose-dependent effects on ethanol intake , preference , and relapse-like behavior without tolerance .
+BACKGROUND	The current study aimed to translate these animal findings to humans by examining whether Org 25935 prevents relapse in detoxified alcohol-dependent patients .
+METHODS	This was a multicenter , randomized , double-blind , placebo-controlled clinical trial .
+METHODS	Adult patients diagnosed with alcohol dependence were randomly assigned to receive Org 25935 12 mg twice a day or placebo for 84 days .
+METHODS	The primary end point was percentage heavy drinking days ( defined as 5 standard drinks per day for men and 4 for women ) .
+METHODS	Secondary end points included other measures of relapse-related drinking behavior ( e.g. , drinks per day , time to relapse ) , as well as measures of global functioning , alcohol-related thoughts and cravings , and motivation .
+RESULTS	A total of 140 subjects were included in the intent-to-treat analysis .
+RESULTS	The trial was stopped approximately midway after a futility analysis showing that the likelihood of detecting a signal at study term was < 40 % .
+RESULTS	There was no significant difference between Org 25935 and placebo on percentage heavy drinking days or any other measure of relapse-related drinking behavior .
+RESULTS	Org 25935 showed no safety issues and was fairly well tolerated , with fatigue , dizziness , and transient visual events as the most commonly occurring side effects .
+CONCLUSIONS	Org 25935 demonstrated no benefit over placebo in preventing alcohol relapse .
+CONCLUSIONS	Study limitations and implications are discussed .
+
+###26069259
+OBJECTIVE	Less than 25 % of stroke patients arrive to an emergency department within the 3-hour treatment window .
+OBJECTIVE	Stroke Warning Information and Faster Treatment ( SWIFT ) compared an interactive intervention ( II ) with enhanced educational ( EE ) materials on recurrent stroke arrival times in a prospective cohort of multiethnic stroke/transient ischemic attack survivors .
+METHODS	A single-center randomized controlled trial ( 2005-2011 ) randomized participants to EE ( bilingual stroke preparedness materials ) or II ( EE plus in-hospital sessions ) .
+METHODS	We assessed differences by randomization in the proportion arriving to emergency department < 3 hours , prepost intervention arrival < 3 hours , incidence rate ratio for total events , and stroke knowledge and preparedness capacity .
+RESULTS	SWIFT randomized 1193 participants ( 592 EE , 601 II ) : mean age 63 years ; 50 % female , 17 % black , 51 % Hispanic , 26 % white .
+RESULTS	At baseline , 28 % arrived to emergency department < 3 hours .
+RESULTS	Over 5 years , first recurrent stroke ( n = 133 ) , transient ischemic attacks ( n = 54 ) , or stroke mimics ( n = 37 ) were documented in 224 participants .
+RESULTS	Incidence rate ratio = 1.31 ( 95 % confidence interval = 1.05-1 .63 ; II to EE ) .
+RESULTS	Among II , 40 % arrived < 3 hours versus 46 % EE ( P = 0.33 ) .
+RESULTS	In prepost analysis , there was a 49 % increase in the proportion arriving < 3 hours ( P = 0.001 ) , greatest among Hispanics ( 63 % , P < 0.003 ) .
+RESULTS	II had greater stroke knowledge at 1 month ( odds ratio = 1.63 ; 1.23-2 .15 ) .
+RESULTS	II had higher preparedness capacity at 1 month ( odds ratio = 3.36 ; 1.86 , 6.10 ) and 12 months ( odds ratio = 7.64 ; 2.49 , 23.49 ) .
+CONCLUSIONS	There was no difference in arrival < 3 hours overall between II and EE ; the proportion arriving < 3 hours increased in both groups and in race-ethnic minorities .
+BACKGROUND	URL : http://www.clinicaltrials.gov .
+BACKGROUND	Unique identifier : NCT00415389 .
+
+###24251969
+BACKGROUND	Nonvariceal acute upper gastrointestinal bleeding ( AUGIB ) is often accompanied by post-discharge anaemia .
+OBJECTIVE	To investigate whether iron treatment can effectively treat anaemia and to compare a 3-month regimen of oral iron treatment with a single administration of intravenous iron prior to discharge .
+METHODS	Ninety-seven patients with nonvariceal AUGIB and anaemia were enrolled in a double-blind , placebo-controlled , randomised study .
+METHODS	The patients were allocated to one of three groups , receiving a single intravenous administration of 1000 mg of iron ; oral iron treatment , 200 mg daily for 3 months ; or placebo , respectively .
+METHODS	The patients were followed up for 3 months .
+RESULTS	From week 4 onwards , patients receiving treatment had significantly higher haemoglobin levels compared with patients who received placebo only .
+RESULTS	At the end of treatment , the proportion of patients with anaemia was significantly higher in the placebo group ( P < 0.01 ) than in the treatment groups .
+RESULTS	Intravenous iron appeared to be more effective than oral iron in ensuring sufficient iron stores .
+CONCLUSIONS	Iron treatment is effective and essential for treating anaemia after nonvariceal acute upper gastrointestinal bleeding .
+CONCLUSIONS	The route of iron supplementation is less important in terms of the increase in haemoglobin levels .
+CONCLUSIONS	Iron stores are filled most effectively if intravenous iron supplementation is administered ( ClinicalTrials.gov identifier : NCT00978575 ) .
+
+###26521572
+OBJECTIVE	To explore the impacts on the cognitive level of the children with mental retardation ( MR ) treated with JIN 's three scalp needling therapy and the training for cognitive and perceptual disturbance so as to seek the more effective therapeutic method for the treatment of MR in children .
+OBJECTIVE	Methods Sixty-six MR children were randomized into a head-point needle-retaining therapy + training group ( group A ) and a training after acupuncture group ( group B ) .
+OBJECTIVE	Seven cases and 12 cases were dropped in the two groups respectively .
+OBJECTIVE	Twenty-six cases accomplished the treatment in the group A and 21 cases in the group B.
+OBJECTIVE	In the group A , the points on the head were stimulated and the needles were retained ( 30 min after the general acupuncture , the needles on the body points were removed ; and those on the head points were retained for 1 h , including Sishenzhen , Naosanzhen , Zhisanzhen and Niesanzhen ) .
+OBJECTIVE	Simultaneously , the training for the cognitive perceptual disturbance was combined .
+OBJECTIVE	In the group B , 1 h after needle retaining at the body points and head points , all the needles were removed ; the training for the cognitive perceptual disturbance was followed .
+OBJECTIVE	The treatment was given once a day , and the treatment for 3 months was required .
+OBJECTIVE	Before and after treatment , the Wechsler intelligence scale for children ( WISC ) was used for evaluation and observation of verbal intelligence quotient ( VIQ ) , performance intelligence quotient ( PIQ ) and full-scale intelligence quotient ( TFIQ ) and score changes of 11 items such as information , picture vocabu ; lary , arithmetic , picture generalization , comprehension , etc. .
+RESULTS	After treatment , FIQ , VIQ and PIQ scores were different significantly as compared with those before treatment ( all P < 0.01 ) .
+RESULTS	In the group A , the results of picture vocabulary , animal egg laying , maze , block design and geometric figure were all improved significantly ( all P < 0.05 ) .
+RESULTS	In the group B , the results of information , comprehension , block design and geometric figure were all improved significantly ( all P < 0.05 ) .
+RESULTS	After treatment , concerning the value difference in FIQ and PIQ of the two groups ; the changes in the group A were more significant ( both P < 0.01 ) .
+RESULTS	After treatment , the results of picture vocabulary and maze were improved significantly in the group A as compared with the group B ( both P < .
+RESULTS	01 ) .
+RESULTS	The IQ categories changed apparently after treatment in the two groups , toward the higher level in tendency generally , but without significant difference ( both P > 0.05 ) .
+CONCLUSIONS	The simultaneous treatment with head point retaining of JIN 's three needling therapy and the training for cognitive and perceptual disturbance obviously improves children patients ' verbal comprehension , expression ability , hand-eye coordination ability , attention , logical reasoning ability and visual perception .
+CONCLUSIONS	The efficacy is better than that in the treatment of the training after acupuncture .
+
+###25605206
+BACKGROUND	This study aimed to understand the relationship between knowledge level and behavior on breast care in Chinese students , so as to provide strategies for improving the health education of breast care and subsequently for aiding in breast cancer prevention .
+METHODS	A self-designed questionnaire was used to evaluate breast care knowledge level and characterize related behavior .
+METHODS	Correlation analysis was conducted for the knowledge level and behavior .
+METHODS	The study was carried out using 597 female undergraduate students in medical and non-medical colleges in Wuhu , China .
+RESULTS	The average score of breast care knowledge was 5.321.68 ( 5.621.68 and 5.001.68 for medical and non-medical students , respectively ) , with a greater score value for sophomores ( 5.591.72 ) than freshmen ( 5.181.65 ) .
+RESULTS	The average score of breast care behavior was 2.211.13 , again with a greater value in sophomores ( 2.371.15 ) than freshmen ( 2.211.13 ) .
+RESULTS	A significant positive correlation ( r = 0.231 , p < 0.01 ) between knowledge scores and behavior scores was observed .
+RESULTS	In addition , various factors , including paying attention to breast care information , receiving breast self-examination guidance , TV program and Internet , were found to influence breast care knowledge .
+CONCLUSIONS	In general , female undergraduate students lack of self-awareness of breast care with a low rate of breast self-examination .
+CONCLUSIONS	It is necessary to carry out health education to improve early detection of breast cancer .
+
+###24593810
+OBJECTIVE	To volumetrically evaluate soft tissue changes of different ridge preservation techniques compared to spontaneous healing 6months after tooth extraction .
+METHODS	In each of 40 patients , one single-rooted tooth was extracted and four treatment modalities were randomly assigned to the following groups ( n = 10 each ) : A ) - tricalcium-phosphate-particles with a polylactid coating ( - TCP ) , B ) demineralized bovine bone mineral with 10 % collagen covered with a collagen matrix ( DBBM-C/CM ) , C ) DBBM with 10 % collagen covered with an autogenous soft tissue punch graft ( DBBM-C/PG ) , D ) spontaneous healing ( control ) .
+METHODS	Impressions were obtained before extraction and 6months later , casts were digitized and volumetric changes at the buccal soft tissues were determined .
+METHODS	One-way anova was performed and pair-wise Wilcoxon rank sum test with Bonferroni-Holm method was applied for comparison of differences between two groups .
+RESULTS	After 6months , horizontal contour changes accounted for -1.70.7 mm ( A ) , -1.20.5 mm ( B ) , -1.20.7 mm ( C ) and -1.80.8 mm ( D ) .
+RESULTS	None of the group comparisons reached statistical significance .
+CONCLUSIONS	Six months after tooth extraction all groups revealed a horizontal volume change in the buccal soft tissue contour .
+CONCLUSIONS	Application of DBBM-C/CM or DBBM-C/PG reduced the amount of volume resorption compared to - TCP or spontaneous healing without reaching statistically significant difference .
+
+###24261057
+BACKGROUND	To address the high prevalence of neck dysfunction in helicopter aircrew , a 12-wk training program was designed to examine the effects on neck muscular strength and endurance .
+METHODS	Subjects were recruited from Canadian Forces ( CF ) helicopter aircrew and randomized into either a neck coordination training program ( CTP ; N = 10 ) , an endurance training program ( ETP ; N = 11 ) , or a nontreatment control ( CON ; N = 8 ) .
+METHODS	Baseline assessments determined maximal voluntary contraction ( MVC ) strength and endurance capacity using a submaximal contraction to fatigue at 70 % of their MVC for extension , flexion , and left ( Ltflx ) and right ( Rtflx ) lateral flexion .
+METHODS	The ETP subjects performed dynamic contractions at 30 % of their MVC in the four testing directions using a head harness and Thera-band tubing .
+METHODS	The CTP consisted of exercises that focused on strengthening the deep cervical musculature using the mass of the head as resistance and progressing to exercises that incorporated the superficial cervical muscles .
+RESULTS	Post-intervention , the ETP achieved the only statistically significant increase in maximal force when compared to the CON ( 14.4 % ) .
+RESULTS	Improved times to fatigue were achieved by the CTP for flexion ( 26.34 + / - 20.72 s ) , Ltflx ( 23.54 + / - 13.94 s ) , and Rtflx ( 28.72 + / - 4.88 s ) .
+CONCLUSIONS	The provision of an ETP and CTP resulted in a positive trend toward improved maximal force and muscular endurance .
+CONCLUSIONS	The greatest improvements in endurance and strength were found for those subjects assigned to the CTP treatment .
+CONCLUSIONS	Our research demonstrates the importance of including a designed and supervised training program into the daily routine of helicopter aviators .
+
+###24735616
+BACKGROUND	Long-term sick leave has considerably negative impact on the individual and society .
+BACKGROUND	Hence , the need to identify effective occupational rehabilitation programs is pressing .
+BACKGROUND	In Norway , group based occupational rehabilitation programs merging patients with different diagnoses have existed for many years , but no rigorous evaluation has been performed .
+BACKGROUND	The described randomized controlled trial aims primarily to compare two structured multicomponent inpatient rehabilitation programs , differing in length and content , with a comparative cognitive intervention .
+BACKGROUND	Secondarily the two inpatient programs will be compared with each other , and with a usual care reference group .
+METHODS	The study is designed as a randomized controlled trial with parallel groups .
+METHODS	The Social Security Office performs monthly extractions of sick listed individuals aged 18-60 years , on sick leave 2-12 months , with sick leave status 50 % - 100 % due to musculoskeletal , mental or unspecific disorders .
+METHODS	Sick-listed persons are randomized twice : 1 ) to receive one of two invitations to participate in the study or not receive an invitation , where the latter `` untouched '' control group will be monitored for future sick leave in the National Social Security Register , and 2 ) after inclusion , to a Long or Short inpatient multicomponent rehabilitation program ( depending on which invitation was sent ) or an outpatient cognitive behavioral therapy group comparative program .
+METHODS	The Long program consists of 3 weeks with full rehabilitation days .
+METHODS	The Short program consists of 4 +4 full days , separated by two weeks , in which a workplace visit will be performed if desirable .
+METHODS	Three areas of rehabilitation are targeted : mental training , physical training and work-related problem solving .
+METHODS	The primary outcome is number of sick leave days .
+METHODS	Secondary outcomes include time until full sustainable return to work , health related quality of life , health related behavior , functional status , somatic and mental health , and perceptions of work .
+METHODS	In addition , health economic evaluation will be performed , and the implementation of the interventions , expectations and experiences of users and service providers will be investigated with different qualitative methods .
+BACKGROUND	ClinicalTrials.gov : NCT01926574 .
+
+###24881730
+BACKGROUND	Enzalutamide is an oral androgen-receptor inhibitor that prolongs survival in men with metastatic castration-resistant prostate cancer in whom the disease has progressed after chemotherapy .
+BACKGROUND	New treatment options are needed for patients with metastatic prostate cancer who have not received chemotherapy , in whom the disease has progressed despite androgen-deprivation therapy .
+METHODS	In this double-blind , phase 3 study , we randomly assigned 1717 patients to receive either enzalutamide ( at a dose of 160 mg ) or placebo once daily .
+METHODS	The coprimary end points were radiographic progression-free survival and overall survival .
+RESULTS	The study was stopped after a planned interim analysis , conducted when 540 deaths had been reported , showed a benefit of the active treatment .
+RESULTS	The rate of radiographic progression-free survival at 12 months was 65 % among patients treated with enzalutamide , as compared with 14 % among patients receiving placebo ( 81 % risk reduction ; hazard ratio in the enzalutamide group , 0.19 ; 95 % confidence interval [ CI ] , 0.15 to 0.23 ; P < 0.001 ) .
+RESULTS	A total of 626 patients ( 72 % ) in the enzalutamide group , as compared with 532 patients ( 63 % ) in the placebo group , were alive at the data-cutoff date ( 29 % reduction in the risk of death ; hazard ratio , 0.71 ; 95 % CI , 0.60 to 0.84 ; P < 0.001 ) .
+RESULTS	The benefit of enzalutamide was shown with respect to all secondary end points , including the time until the initiation of cytotoxic chemotherapy ( hazard ratio , 0.35 ) , the time until the first skeletal-related event ( hazard ratio , 0.72 ) , a complete or partial soft-tissue response ( 59 % vs. 5 % ) , the time until prostate-specific antigen ( PSA ) progression ( hazard ratio , 0.17 ) , and a rate of decline of at least 50 % in PSA ( 78 % vs. 3 % ) ( P < 0.001 for all comparisons ) .
+RESULTS	Fatigue and hypertension were the most common clinically relevant adverse events associated with enzalutamide treatment .
+CONCLUSIONS	Enzalutamide significantly decreased the risk of radiographic progression and death and delayed the initiation of chemotherapy in men with metastatic prostate cancer .
+CONCLUSIONS	( Funded by Medivation and Astellas Pharma ; PREVAIL ClinicalTrials.gov number , NCT01212991 . )
+
+###25136038
+OBJECTIVE	Emphasizing societal benefits of vaccines has been linked to increased vaccination intentions in adults .
+OBJECTIVE	It is unclear if this pattern holds for parents deciding whether to vaccinate their children .
+OBJECTIVE	The objective was to determine whether emphasizing the benefits of measles-mumps-rubella ( MMR ) vaccination directly to the vaccine recipient or to society differentially impacts parents ' vaccine intentions for their infants .
+METHODS	In a national online survey , parents ( N = 802 ) of infants < 12 months old were randomly assigned to receive 1 of 4 MMR vaccine messages : ( 1 ) the Centers for Disease Control and Prevention Vaccine Information Statement ( VIS ) , ( 2 ) VIS and information emphasizing the MMR vaccine 's benefits to the child , ( 3 ) VIS and information emphasizing societal benefits , or ( 4 ) VIS and information emphasizing benefits both to the child and society .
+METHODS	Parents reported their likelihood of vaccinating their infants for MMR on a response scale of 0 ( extremely unlikely ) to 100 ( extremely likely ) .
+RESULTS	Compared with the VIS-only group ( mean intention = 86.3 ) , parents reported increased vaccine intentions for their infants when receiving additional information emphasizing the MMR vaccine 's benefits either directly to the child ( mean intention = 91.6 , P = .01 ) or to both the child and society ( mean intention = 90.8 , P = .03 ) .
+RESULTS	Emphasizing the MMR vaccine 's benefits only to society did not increase intentions ( mean intention = 86.4 , P = .97 ) .
+CONCLUSIONS	We did not see increases in parents ' MMR vaccine intentions for their infants when societal benefits were emphasized without mention of benefits directly to the child .
+CONCLUSIONS	This finding suggests that providers should emphasize benefits directly to the child .
+CONCLUSIONS	Mentioning societal benefits seems to neither add value to , nor interfere with , information highlighting benefits directly to the child .
+
+###24767206
+OBJECTIVE	To study the efficacy and safety of tirofiban in patients with acute non-ST - segment elevation myocardial infarction ( NSTEMI ) without early reperfusion intervention .
+METHODS	A total of 151 NSTEMI patients without early reperfusion intervention were enrolled in the study and randomized to the tirofiban group ( n = 76 ) and the control group ( n = 75 ) .
+METHODS	Coronary angiography was performed at day 3 and day 7 , while percutaneous coronary intervention ( PCI ) was performed when necessary .
+METHODS	Parameters including thrombolysis in myocardial infarction ( TIMI ) flow , bleeding complications and clinic events within 30 days were compared between the two groups .
+RESULTS	Before PCI , no increase in the percentage of patient with TIMI flow better than TIMI-2 was observed by the treatment of tirofiban ( 69.3 % vs 78.9 % , P = 0.10 ) .
+RESULTS	While after PCI , significant increase in the percentage of patient with TIMI flow better than TIMI-2 was manifested in the tirofiban group ( 96.0 % vs 100.0 % , P = 0.04 ) .
+RESULTS	Tirofiban treatment also significantly decreased the rate of poor myocardial perfusion after PCI ( 19.7 % vs 34.7 % , P = 0.04 ) .
+RESULTS	There were 0 and 4 major adverse cardiovascular events ( MACE ) within 30 days observed in the tirofiban group and the control group ( 0.0 % vs 5.3 % , P = 0.05 ) .
+RESULTS	No difference between the two groups was found in the bleeding complications within 30 days including the mild hemorrhage ( 5 vs 4 cases , P = 0.75 ) , severe hemorrhage ( 2 vs 1 cases , P = 0.56 ) or severe thrombocytopenia ( 2 vs 0 cases , P = 0.49 ) .
+CONCLUSIONS	Tirofiban treatment does not increase the bleeding complications in NSTEMI patients without early PCI .
+CONCLUSIONS	Tirofiban can improve the TIMI flow and the myocardial perfusion after PCI with less MACE within 30 days .
+
+###25833980
+BACKGROUND	The International Lipid-Based Nutrient Supplements Project developed a small-quantity ( 20 g/d ) lipid-based nutrient supplement ( LNS ) for pregnant and lactating women .
+OBJECTIVE	We evaluated the effects of prenatal LNS supplementation on fetal growth .
+METHODS	In a community-based , partially double-blind , individually randomized controlled trial , 1320 women 20 wk pregnant received 60 mg Fe/400 g folic acid ( IFA ) , or 1-2 Recommended Dietary Allowances of 18 micronutrients , including 20 mg Fe ( MMN ) , or LNS with the same micronutrients as the MMN group , plus 4 minerals and macronutrients contributing 118 kcal ( LNS ) daily until delivery .
+METHODS	Fetal growth was compared across groups by using intention-to-treat analysis .
+METHODS	The primary outcome was birth length .
+RESULTS	This analysis included 1057 women ( IFA = 349 , MMN = 354 , LNS = 354 ) .
+RESULTS	Groups did not differ significantly in mean birth length , length-for-age z score ( LAZ ) , head circumference , or percentage low birth length but differed in mean birth weight ( P = 0.044 ) , weight-for-age z score ( WAZ ; P = 0.046 ) , and BMI-for-age z score ( BMIZ ; P = 0.040 ) , with a trend toward differences in low birth weight ( P = 0.069 ) .
+RESULTS	In pairwise comparisons , the LNS group had greater mean birth weight ( +85 g ; P = 0.040 ) , WAZ ( +0.19 ; P = 0.045 ) , and BMIZ ( +0.21 ; P = 0.035 ) and a lower risk of low birth weight ( RR : 0.61 , 95 % CI : 0.39 , 0.96 ; P = 0.032 ) than did the IFA group .
+RESULTS	The other group differences were not significant .
+RESULTS	The effect of intervention was modified by mother 's parity , age , height , baseline hemoglobin , household food insecurity , and child sex , with parity being the most consistent modifier .
+RESULTS	Among primiparous women ( IFA = 131 ; MMN = 110 ; LNS = 128 ) , the LNS group had greater mean birth length ( +0.91 cm ; P = 0.001 ) , LAZ ( +0.47 ; P = 0.001 ) , weight ( +237 g ; P < 0.001 ) , WAZ ( +0.56 ; P < 0.001 ) , BMIZ ( +0.52 ; P < 0.001 ) , head circumference ( 0.50 cm ; P = 0.017 ) , and head circumference-for-age z score ( +0.40 ; P = 0.022 ) than did the IFA group ; similar differences were found when comparing the LNS and MMN groups among primiparous women , and no group differences were found among multiparous women .
+CONCLUSIONS	Prenatal LNS supplementation can improve fetal growth among vulnerable women in Ghana , particularly primiparous women .
+CONCLUSIONS	This trial was registered at clinicaltrials.gov as NCT00970866 .
+
+###24500154
+BACKGROUND	Nitrate , which is an inorganic anion abundant in vegetables , increases the efficiency of isolated human mitochondria .
+BACKGROUND	Such an effect might be reflected in changes in the resting metabolic rate ( RMR ) and formation of reactive oxygen species .
+BACKGROUND	The bioactivation of nitrate involves its active accumulation in saliva followed by a sequential reduction to nitrite , nitric oxide , and other reactive nitrogen species .
+OBJECTIVE	We studied effects of inorganic nitrate , in amounts that represented a diet rich in vegetables , on the RMR in healthy volunteers .
+METHODS	In a randomized , double-blind , crossover study , we measured the RMR by using indirect calorimetry in 13 healthy volunteers after a 3-d dietary intervention with sodium nitrate ( NaNO ) or a placebo ( NaCl ) .
+METHODS	The nitrate dose ( 0.1 mmol kg d ) corresponded to the amount in 200-300 g spinach , beetroot , lettuce , or other vegetable that was rich in nitrate .
+METHODS	Effects of direct nitrite exposure on cell respiration were studied in cultured human primary myotubes .
+RESULTS	The RMR was 4.2 % lower after nitrate compared with placebo administration , and the change correlated strongly to the degree of nitrate accumulation in saliva ( r = 0.71 ) .
+RESULTS	The thyroid hormone status , insulin sensitivity , glucose uptake , plasma concentration of isoprostanes , and total antioxidant capacity were unaffected by nitrate .
+RESULTS	The administration of nitrite to human primary myotubes acutely inhibited respiration .
+CONCLUSIONS	Dietary inorganic nitrate reduces the RMR .
+CONCLUSIONS	This effect may have implications for the regulation of metabolic function in health and disease .
+
+###24862633
+OBJECTIVE	To compare health-related quality-of-life ( HRQoL ) outcomes for robot-assisted laparoscopic radical cystectomy ( RARC ) with those of traditional open radical cystectomy ( ORC ) in a prospective randomised fashion .
+METHODS	This was a prospective randomised clinical trial evaluating the HRQoL for ORC vs RARC in consecutive patients from July 2009 to June 2011 .
+METHODS	We administered the Functional Assessment of Cancer Therapy-Vanderbilt Cystectomy Index questionnaire , validated to assess HRQoL , preoperatively and then at 3 , 6 , 9 and 12 months postoperatively .
+METHODS	Scores for each domain and total scores were compared in terms of deviation from preoperative values for both the RARC and the ORC cohorts .
+METHODS	Multivariate linear regression was used to assess the association between the type of radical cystectomy and HRQoL .
+RESULTS	At the time of the study , 47 patients had met the inclusion criteria , with 40 patients being randomised for analysis .
+RESULTS	The cohorts consisted of 20 patients undergoing ORC and 20 undergoing RARC , who were balanced with respect to baseline demographic and clinical features .
+RESULTS	Univariate analysis showed a return to baseline scores at 3 months postoperatively in all measured domains with no statistically significant difference among the various domains between the RARC and the ORC cohorts .
+RESULTS	Multivariate analysis showed no difference in HRQoL between the two approaches in any of the various domains , with the exception of a slightly higher physical well-being score in the RARC group at 6 months .
+CONCLUSIONS	There were no significant differences in the HRQoL outcomes between ORC and RARC , with a return of quality of life scores to baseline scores 3 months after radical cystectomy in both cohorts .
+
+###25841317
+OBJECTIVE	To assess the efficacy of corneal cross-linking ( CXL ) as an adjuvant to appropriate antifungal therapy in nonresolving deep stromal fungal keratitis .
+METHODS	Randomized clinical trial .
+METHODS	Eyes with culture-positive deep stromal fungal keratitis not responding to appropriate medical therapy for a period of 2 weeks were randomized to receive either adjuvant CXL or no additional treatment .
+METHODS	Antifungal medical therapy was continued in both groups .
+METHODS	The prespecified primary outcome was treatment failure at 6 weeks after enrollment , defined as perforation and/or increase in ulcer size by 2 mm .
+RESULTS	The trial was stopped before full enrollment because of a marked difference in the rate of perforation between the 2 groups .
+RESULTS	Of the 13 cases enrolled in the study , 6 were randomized to the CXL group and 7 to the non-CXL group .
+RESULTS	Five eyes in the CXL group and 3 eyes in the non-CXL group experienced treatment failure by 6 weeks ( P = .56 ) .
+RESULTS	In a secondary analysis , the CXL group experienced more perforations than the non-CXL group ( 4 vs 0 , respectively ; P = .02 ) .
+CONCLUSIONS	CXL used as adjuvant therapy for recalcitrant deep stromal fungal keratitis did not improve outcomes .
+
+###24367946
+BACKGROUND	Effects of palm olein ( POL ) on calcium and fat metabolic balance and gastrointestinal ( GI ) tolerance have been clinically evaluated but its use in combination with palm kernel oil ( PKO ) , and canola oil has not been similarly assessed in infants .
+METHODS	Calcium and fat balance and GI tolerance were evaluated in 33 healthy term infants ( age = 68-159 d ) in a randomized , double-blinded , 14 d crossover trial at a day care center in Salvador , Brazil ; followed by a 4d hospital ward metabolic balance study in 17 of the male subjects .
+METHODS	The study compared two commercially available milk-based powdered formulas in Brazil ; one containing POL ( 44 % of total fat ) , PKO ( 21.7 % ) and canola oil ( 18.5 % ) as predominant fats ( PALM ) , and the other containing none ( NoPALM ) .
+METHODS	Occasional human milk ( HM ) supplementation was allowed at home .
+RESULTS	Formula and HM intakes , and growth were not different ( p > 0.05 ) .
+RESULTS	Calcium absorption ( % ) for infants fed NoPALM ( 58.8 16.7 % ; means SD ) was higher ( p = 0.023 ) than those fed PALM ( 42.1 19.2 % ) , but was not significant ( p = 0.104 ) when calcium intake was used as a covariate .
+RESULTS	Calcium intake was higher ( p < 0.001 ) in NoPALM versus PALM fed infants .
+RESULTS	However , calcium retention ( % ) was higher in infants fed NoPALM compared to PALM with ( p = 0.024 ) or without ( p = 0.015 ) calcium intake as a covariate .
+RESULTS	Fat absorption ( % ) for NoPALM was greater than PALM fed infants ( NoPALM = 96.9 1.2 > PALM = 95.1 1.5 ; p = 0.020 in Study Period I ) .
+RESULTS	Mean rank stool consistency was softer in infants fed NoPALM versus PALM ( p < 0.001 ; metabolic period ) .
+RESULTS	Adverse events , spit-up/vomit , fussiness and gassiness were not different ( p > 0.05 ) .
+RESULTS	Formula acceptability was high and comparable for both formula feedings , regardless of HM supplementation .
+CONCLUSIONS	Term infants fed PALM based formula ( containing palm olein , palm kernel and canola oils ) demonstrated lower calcium retention and fat absorption , and less softer stool consistency versus infants fed NoPALM based formula .
+CONCLUSIONS	Study suggested formula fat differences may affect GI function in infants .
+
+###25356881
+OBJECTIVE	Exacerbations of COPD requiring hospital admission have important clinical and societal implications .
+OBJECTIVE	We sought to investigate the incidence , recurrence , risk factors , and mortality of patients with COPD exacerbations requiring hospital admission compared with those without hospital admission during 3-year follow-up .
+OBJECTIVE	Patients with COPD ( N = 2,138 ) were identified from the Evaluation of COPD Longitudinally to Identify Predictive Surrogate Endpoints ( ECLIPSE ) observational cohort .
+METHODS	An analysis of time to first event of hospital admission was performed using Kaplan-Meier curves and Cox proportional hazard regression adjusting for possible confounders .
+RESULTS	Of the 2,138 patients , 670 ( 31 % ) reported a total of 1,452 COPD exacerbations requiring hospital admission during the study period ; 313 patients ( 15 % ) reported multiple events .
+RESULTS	A prior history of exacerbation of COPD requiring hospital admission was the factor associated with the highest risk of a new hospitalization for exacerbation ( hazard ratio , 2.71 ; 95 % CI , 2.24-3 .29 ; P < .001 ) .
+RESULTS	Other risk factors included more severe airflow limitation , poorer health status , older age , radiologic evidence of emphysema , and higher WBC count .
+RESULTS	Having been hospitalized for exacerbation significantly increased the risk of mortality ( P < .001 ) .
+CONCLUSIONS	Exacerbations of COPD requiring hospital admission occur across all stages of airflow limitation and are a significant prognostic factor of reduced survival across all COPD stages .
+CONCLUSIONS	Patients with COPD at a high risk for hospitalization can be identified by their past history for similar events , and other factors , including the severity of airflow limitation , poor health status , age , presence of emphysema , and leukocytosis .
+BACKGROUND	ClinicalTrials.gov ; No. : NCT00292552 ; URL : www.clinicaltrials.gov .
+
+###24645912
+BACKGROUND	Friction blister research has focused on prevention and treatment approaches rather than exploring the pathophysiology of the friction blister .
+BACKGROUND	Increased skin hydration has been purported to be a key risk factor in friction blister development .
+BACKGROUND	This study aimed to test the effect of increased skin surface hydration on the risk of friction blister creation .
+METHODS	The skin on one foot was hydrated by soaking the foot in water .
+METHODS	Intermittent loading was carried out until an observable change of 3C was evident using infrared thermography .
+METHODS	The contra lateral foot acted as a control .
+METHODS	Skin hydration and elasticity was measured using electrical capacitance and negative pressure respectively .
+RESULTS	The rate of temperature change of the hydrated group was significantly greater than that of the non-hydrated foot group ( P = 0.001 ) and showed a strong positive correlation ( r = 0.520 ) with skin surface hydration .
+RESULTS	Weak negative correlations were seen between skin elasticity and rate of temperature change in response to load application ( r = -0.166 ) and skin surface hydration and elasticity at baseline ( r = -0.195 ) .
+CONCLUSIONS	In controlled experimental conditions increased skin surface hydration increases the rate of temperature change of the skin in response to load application and consequently increases the risk of blister creation .
+
+###24884934
+BACKGROUND	Foods that enhance satiety can help consumers to resist environmental cues to eat , and improve the nutritional quality of their diets .
+BACKGROUND	Viscosity generated by oat - glucan , influences gastrointestinal mechanisms that mediate satiety .
+BACKGROUND	Differences in the source , processing treatments , and interactions with other constituents in the food matrix affect the amount , solubility , molecular weight , and structure of the - glucan in products , which in turn influences the viscosity .
+BACKGROUND	This study examined the effect of two types of oatmeal and an oat-based ready-to-eat breakfast cereal ( RTEC ) on appetite , and assessed differences in meal viscosity and - glucan characteristics among the cereals .
+METHODS	Forty-eight individuals were enrolled in a randomized crossover trial .
+METHODS	Subjects consumed isocaloric breakfast meals containing instant oatmeal ( IO ) , old-fashioned oatmeal ( SO ) or RTEC in random order at least a week apart .
+METHODS	Each breakfast meal contained 218kcal ( 150kcal cereal , and 68kcal milk ) Visual analogue scales measuring appetite were completed before breakfast , and over four hours , following the meal .
+METHODS	Starch digestion kinetics , meal viscosities , and - glucan characteristics for each meal were determined .
+METHODS	Appetite responses were analyzed by area under the curve .
+METHODS	Mixed models were used to analyze response changes over time .
+RESULTS	IO increased fullness ( p = 0.04 ) , suppressed desire to eat ( p = 0.01 ) and reduced prospective intake ( p < 0.01 ) more than the RTEC over four hours , and consistently at the 60minute time-point .
+RESULTS	SO reduced prospective intake ( p = 0.04 ) more than the RTEC .
+RESULTS	Hunger scores were not significantly different except that IO reduced hunger more than the RTEC at the 60minute time-point .
+RESULTS	IO and SO had higher - glucan content , molecular weight , gastric viscosity , and larger hydration spheres than the RTEC , and IO had greater viscosity after oral and initial gastric digestion ( initial viscosity ) than the RTEC .
+CONCLUSIONS	IO and SO improved appetite control over four hours compared to RTEC .
+CONCLUSIONS	Initial viscosity of oatmeal may be especially important for reducing appetite .
+
+###25945555
+BACKGROUND	In-water resuscitation ( IWR ) is recommended in the 2010 guidelines of the European Resuscitation Council .
+BACKGROUND	As IWR represents a physical challenge to the rescuer , a novel Rescue Tube device with an integrated `` Oxylator '' resuscitator might facilitate IWR .
+BACKGROUND	The aim of the present study was the assessment of IWR using the novel Rescue Tube device .
+METHODS	Tidal and minute volumes were recorded using a modified Laerdal Resusci Anne mannequin .
+METHODS	Furthermore , rescue time , water aspiration , submersions , and physical exertion were assessed .
+METHODS	In this randomized cross-over trial , 17 lifeguards performed four rescue maneuvers over a 100-m distance in open water in random order : no ventilation ( NV ) , mouth-to-mouth ventilation ( MMV ) , Oxylator-aided mask ventilation ( OMV ) , and Oxylator-aided laryngeal tube ventilation ( OLTV ) .
+RESULTS	OLTV resulted in effective ventilation over the entire rescue distance with the highest mean minute volumes ( NV 0 , MMV 2.9 , OMV 4.1 , OLTV 7.6 L min ( -1 ) ) .
+RESULTS	NV was the fastest rescue maneuver while IWR prolonged the rescue maneuver independently of the method of ventilation ( mean total rescue time : NV 217 , MMV 280 , OMV 292 , OLTV 290 s ) .
+RESULTS	Aspiration of substantial amounts of water occurred only during MMV ( mean NV 20 , MMV 215 , OMV 15 , OLTV 6 ml ) .
+RESULTS	NV and OLTV were rated as moderately challenging by the lifeguards , whereas MMV and OMV were rated as substantially demanding on a 0-10 visual analog scale ( NV 5.3 , MMV 7.8 , OMV 7.6 , OLTV 5.9 ) .
+CONCLUSIONS	The device might facilitate IWR by providing effective ventilation with minimal aspiration and by reducing physical effort .
+CONCLUSIONS	Another advantage is the possibility of delivering 100 % oxygen .
+
+###25026889
+BACKGROUND	Cervical cancer is a frequently diagnosed cancer in women worldwide .
+BACKGROUND	Despite having easy preventive and therapeutic approaches , it is an important cause of mortality among women .
+METHODS	The CRICERVA study is a cluster clinical trial which assigned one of three interventions to the target population registered in Cerdanyola , Barcelona .
+METHODS	Among the 5,707 resident women aged 60 to 70 years in the study area , women with no record of cervical cytology over the last three years were selected .
+METHODS	The study included four arms : three interventions all including a pre-assigned date for screening visit and i ) personalized invitation letter ; ii ) adding to i ) an informative leaflet ; and , iii ) in addition to ii ) a personalized appointment reminder phone call , and iv ) no specific action taken ( control group ) .
+METHODS	Participants were offered a personal interview about social-demographic characteristics and about screening attitudes .
+METHODS	Cervical cytology and HPV DNA test ( HC2 ) were offered as screening tests .
+METHODS	In the case of screening positive in any of these tests , the women were followed up until a full diagnosis could be obtained .
+METHODS	The effect size of each study arm was estimated as the absolute gain in coverage between the original coverage and the final coverage .
+RESULTS	From the intervention groups ( 4,775 women ) , we identified 3,616 who were not appropriately screened , of which 2,560 women answered the trial call and 1,376 were amenable to screening .
+RESULTS	HPV was tested in 920 women and cervical cytology in all 1,376 .
+RESULTS	Overall , there was an absolute gain in coverage of 28.8 % in the intervention groups compared to 6 % in the control group .
+RESULTS	Coverage increased from 51.2 % to 76.0 % in strategy i ) ; from 47.4 % to 79.0 % in strategy ii ) and from 44.5 % to 74.6 % in strategy iii ) .
+RESULTS	Lack of information about the relevance of screening was the most important factor for not attending the screening program .
+CONCLUSIONS	The study confirms that actively contacting women and including a date for a screening visit , notably increased participation in the screening program .
+CONCLUSIONS	Efforts to improve health education in preventative activities are warranted .
+BACKGROUND	Clinical Trials.gov Identifier NCT01373723 .
+BACKGROUND	Registered 14 June 2011 .
+
+###24595550
+BACKGROUND	This multi-center , phase III trial assesses the efficacy of daikenchuto ( TU-100 ) on gastrointestinal disorders after hepatic resection ( UMIN Registration No. 000003103 ) .
+METHODS	A total of 231 patients , who underwent hepatic resection at 26 Japanese centers , were enrolled .
+METHODS	Patients were randomly assigned to receive either oral doses ( 15 g/day , three times a day ) of TU-100 or placebo control from preoperative day 3 to postoperative day 10 , except on the day of surgery .
+METHODS	Primary end points were the time from extubation until the first postoperative bowel movement ( FBM-T ) , serum C-reactive protein ( CRP ) and ammonia levels .
+RESULTS	Finally , 209 patients ( TU-100 : n = 108 , placebo : n = 101 ) were included in the statistical analysis .
+RESULTS	The median FBM-T was 88.2 h ( 95 % CI 74.0-94 .1 ) in the TU-100 group and 93.1 h ( 95 % CI 83.3-99 .4 ) in the placebo group , demonstrating that TU-100 accelerated the time to first bowel movement significantly more than placebo control .
+RESULTS	Serum CRP levels did not differ significantly during the study period , although serum CRP levels in the TU-100 group tended to be lower than those in the placebo group in patients with grade B liver damage .
+RESULTS	Meanwhile , the two groups had similar serum ammonia levels .
+RESULTS	TU-100-related serious adverse events did not occur during the study .
+CONCLUSIONS	TU-100 appears to improve gastrointestinal dysmotility and reduce serum CRP levels in patients with grade B liver damage after hepatectomy .
+CONCLUSIONS	TU-100 is an effective treatment option after hepatic resection in patients with liver cancer .
+
+###25643051
+OBJECTIVE	This study was aimed at evaluating the clinical efficacy and safety of transcutaneous electrical acupoint stimulation ( TEAS ) to treat muscle spasticity after brain injury ( Chinese Clinical Trial Registry : ChiCTR-TRC-11001310 ) .
+METHODS	A total of 60 patients with muscle spasticity after brain injury were randomized to the following 3 groups : 100 , 2 , and 0 Hz ( sham ) TEAS .
+METHODS	The acupoints Hegu ( LI4 ) -- Yuji ( LU10 ) and Zusanli ( ST36 ) -- Chengshan ( BL57 ) on the injured side were stimulated at 0 , 2 , or 100 Hz , 5 times per week for 4 weeks .
+METHODS	The patients were followed up for 1 and 2 months after the treatments .
+METHODS	The effects of the treatments on muscle spasticity at the wrist , thumb , the other 4 fingers , elbow , shoulder , knee , and ankle were evaluated by the Modified Ashworth Scale , and the effects on disability were assessed by the Disability Assessment Scale .
+METHODS	The walking capability was evaluated by the Holden functional ambulation classification score .
+METHODS	The overall performance was assessed by the Global Assessment Scale score and the improved Barthel Index .
+METHODS	The safety of the treatments administered was also monitored .
+RESULTS	The wrist spasticity was significantly reduced from baseline at weeks 2 , 3 , and 4 of treatment and at the 1 - and 2-month follow-up visits in the 100 Hz group ( P < 0.01 ) .
+RESULTS	Compared with 2 Hz or sham TEAS , 100 Hz TEAS decreased wrist spasticity at weeks 2 , 3 , and 4 of treatment and 1 month after treatment ( P < 0.001 ) .
+RESULTS	The other endpoints were not affected by the treatments .
+RESULTS	No treatment-emergent adverse events were reported during treatments and follow-up visits .
+CONCLUSIONS	TEAS appears to be a safe and effective therapy to relieve muscle spasticity after brain injury , although large-scale studies are required to further verify the findings .
+BACKGROUND	Chinese Clinical Trial Registry ChiCTR-TRC-11001310 http://www.chictr.org .
+
+###25176152
+OBJECTIVE	In the emergency department ( ED ) , intravenous ( IV ) catheter placement is one of the most frequent interventions and may be a real challenge in some conditions .
+OBJECTIVE	Improvement of the success rate with new technology represents a great opportunity .
+OBJECTIVE	This randomized controlled trial aimed to show the superiority of AccuVein to cannulate veins in adults compared to routine care .
+METHODS	After giving written consent , patients were randomized into two groups : routine IV catheter insertion or insertion guided by the AccuVein , which is a hand-held instrument displaying laser light to optimize visualization of veins .
+METHODS	The primary outcome was the time to successful placement of catheters .
+METHODS	Secondary outcomes included the number of attempts , the rate of failure , technique-related pain , occurrence of movements , and efficiency of IV cannulation as perceived by the operator when using the AccuVein device .
+METHODS	Results are given as mean and bootstrapped 95 % confidence interval ( CI ) and percentages .
+METHODS	p-values of < 0.05 were considered significant .
+RESULTS	A total of 266 six patients were included , with 157 randomized to routine cannulation and 115 to AccuVein .
+RESULTS	Patient characteristics were similar .
+RESULTS	Time to successful placement of IV catheter ( routine , 98 seconds , 95 % CI = 85 to 113 seconds ; and AccuVein , 119 seconds , 95 % CI = 93 to 154 seconds ) was not different between groups ( p = 0.24 ) .
+RESULTS	Secondary outcomes ( failure and pain ) did not significantly differ , except for movements , which were more frequent when using the AccuVein device ( 19.1 % vs. 10.2 % , p = 0.05 ) .
+RESULTS	Evaluation of the AccuVein by operators was more often negative than positive .
+CONCLUSIONS	Use of the AccuVein did not improve IV cannulation in nonselected ED patients .
+
+###24788028
+OBJECTIVE	Past literature documents many individual predictors of treatment engagement among mental health clients in community settings , but few studies have examined clinic characteristics that may be associated with treatment engagement .
+OBJECTIVE	With data from a patient activation and self-management trial , this study examined the variation in demographic and clinic characteristics across community mental health clinics and whether this variation predicted differences in treatment engagement in mental health services .
+METHODS	Chart reviews were conducted for 638 clients of 12 community mental health clinics .
+METHODS	Client attendance records were collected for a one-year period to examine engagement ( defined as the ratio of kept versus scheduled appointments ) .
+METHODS	Adjusting for client variability , the investigators examined which clinic-level characteristics were associated with treatment engagement .
+RESULTS	Clinics varied significantly in their clients ' demographic characteristics and engagement in mental health care .
+RESULTS	Providing case management and offering transportation vouchers or free parking at the clinic were associated with lower engagement .
+RESULTS	However , offering outreach was associated with greater engagement .
+CONCLUSIONS	The results of this study suggest that certain clinic characteristics are associated with engagement in mental health services .
+CONCLUSIONS	These results demonstrate the difficulties faced by community mental health clinics in reducing no-show rates even in the face of strong efforts to improve engagement .
+
+###25450083
+OBJECTIVE	Little is known about whether probiotics can affect outcomes of patients with cirrhosis and hepatic encephalopathy ( HE ) .
+OBJECTIVE	We assessed the efficacy of a probiotic preparation in preventing the recurrence of HE ( primary outcome ) and reducing the number of hospitalizations and severity of liver disease in patients with cirrhosis .
+METHODS	We performed a double-blind trial at a tertiary care hospital in India .
+METHODS	Patients with cirrhosis who had recovered from an episode of HE during the previous month were assigned randomly ( using computer-generated allocation ) to groups given a probiotic preparation ( VSL # 3 , 9 10 ( 11 ) bacteria ; CD Pharma India Private Limited , New Delhi , India ) ( n = 66 ) or placebo ( n = 64 ) daily for 6 months .
+RESULTS	There was a trend toward a reduction in the development of breakthrough HE among patients receiving the probiotic ( 34.8 % in the probiotic group vs 51.6 % in the placebo group ; hazard ratio [ HR ] , 0.65 ; 95 % confidence interval [ CI ] , 0.38-1 .11 ; P = .12 ) .
+RESULTS	Fewer patients in the probiotic group were hospitalized for HE ( 19.7 % vs 42.2 % , respectively ; HR , 0.45 ; 95 % CI , 0.23-0 .87 ; P = .02 ) or for complications of cirrhosis ( 24.2 % ) than in the placebo group ( 45.3 % ) ( HR , 0.52 ; 95 % CI , 0.28-0 .95 ; P = .034 ) .
+RESULTS	Child-Turcotte-Pugh and model for end-stage liver disease scores improved significantly from baseline to 6 months in the probiotic group , but not in the placebo group .
+RESULTS	There were no adverse events related to VSL # 3 .
+CONCLUSIONS	Over a 6-month period , daily intake of VSL # 3 significantly reduced the risk of hospitalization for HE , as well as Child-Turcotte-Pugh and model for end-stage liver disease scores , in patients with cirrhosis .
+CONCLUSIONS	ClinicalTrials.gov number : NCT01110447 .
+
+###25711125
+BACKGROUND	There are limited data to inform the choice between parental presence at clinical bedside rounds ( PPCBR ) and non-PPCBR in neonatal intensive care units ( NICUs ) .
+METHODS	We performed a single-centre , survey-based , crossed-over randomised trial involving parents of all infants who were admitted to NICU and anticipated to stay > 11 days .
+METHODS	Parents were randomly assigned using a computer-generated stratified block randomisation protocol to start with PPCBR or non-PPCBR and then crossed over to the other arm after a wash-out period .
+METHODS	At the conclusion of each arm , parents completed the ` NICU Parental Stressor Scale ' ( a validated tool ) and a satisfaction survey .
+METHODS	After completion of the trial , we surveyed all healthcare providers who participated at least in one PPCBR rounding episode .
+METHODS	We also offered all participating parents and healthcare providers the opportunity to partake in a focus group discussion regarding PPCBR .
+RESULTS	A total of 72 parents were enrolled in this study , with 63 parents ( 87 % ) partially or fully completing the trial .
+RESULTS	Of the parents who completed the trial , 95 % agreed that parents should be allowed to attend clinical bedside rounds .
+RESULTS	A total of 39 healthcare providers ' surveys were returned and 35 ( 90 % ) agreed that parents should be allowed to attend rounds .
+RESULTS	Nine healthcare providers and 8 parents participated in an interview or focus group , augmenting our understanding of the ways in which PPCBR was beneficial .
+CONCLUSIONS	Parents and healthcare providers strongly support PPCBR .
+CONCLUSIONS	NICUs should develop policies allowing PPCBR while mitigating the downsides and concerns of parents and healthcare providers such as decreased education opportunity and confidentiality concerns .
+BACKGROUND	Australia and New Zealand Clinical Trials Register number , ACTRN12612000506897 .
+
+###25195020
+BACKGROUND	Depression is not a normal side effect of aging , however it is one of the most prevalent mental health issues in later life , imposing a tremendous burden on patients , their families , and the healthcare system .
+BACKGROUND	We describe the experimental implementation of a collaborative , stepped-care model for the treatment of late-life depression ( GermanIMPACT trial ) in the German primary care context .
+BACKGROUND	GermanIMPACT was developed as an adaptation of a successful and widely used American model .
+BACKGROUND	The aim of the study is to evaluate the model 's applicability to the German primary care setting and its cost-effectiveness .
+METHODS	The study will be conducted as a cluster-randomized controlled trial comparing the development of depressive symptoms in primary care patients who either receive treatment as usual ( control arm ) or treatment according to the GermanIMPACT model ( intervention arm ) .
+METHODS	In two German cities ( Freiburg and Hamburg ) , a total of 60 general practice offices will be selected and randomized .
+METHODS	Each general practice office will be asked to enroll five patients into the trial who are 60 years of age or older and who show moderate depressive symptoms in the scope of a diagnosed depressive episode , recurrent depressive disorder , or dysthymia .
+METHODS	General practices in the control arm will provide treatment as usual ; general practices in the intervention arm will work closely with a specially trained care manager and a supervising mental health specialist .
+METHODS	Evidence-based elements of the treatment plan manual include patient education , identification and integration of positive activities into the daily routine , relapse prevention , and training of problem-solving techniques as needed .
+METHODS	The intervention period per patient will be one year .
+METHODS	Data will be collected at baseline , 6 , and 12 months .
+METHODS	Primary outcome is the patient-reported change of depressive symptoms ( Patient Health Questionnaire , PHQ-9 ) .
+METHODS	Secondary outcomes include measures of quality of life , anxiety , depression-related behavior , problem-solving skills , resilience , and an overall economic evaluation of the program .
+CONCLUSIONS	The GermanIMPACT trial will provide evidence about the effectiveness , feasibility , and cost-effectiveness of collaborative stepped care in treating late-life depression in German primary care .
+CONCLUSIONS	Positive results will be a first step toward integrating specialized depression care managers into the primary care setting .
+BACKGROUND	German Clinical Trials Register : DRKS00003589 ( September 2012 ) .
+
+###24594833
+BACKGROUND	Probiotic supplementation significantly reduces the risk of necrotising enterocolitis ( NEC ) and all cause mortality in preterm neonates .
+BACKGROUND	Independent quality assessment is important before introducing routine probiotic supplementation in this cohort .
+OBJECTIVE	To assess product quality , and confirm that Bifidobacterium breve ( B. breve ) M-16V supplementation will increase fecal B. breve counts without adverse effects .
+METHODS	Strain identity ( 16S rRNA gene sequencing ) , viability over 2 year shelf-life were confirmed , and microbial contamination of the product was ruled out .
+METHODS	In a controlled trial preterm neonates ( Gestation < 33 weeks ) ready to commence or on feeds for < 12 hours were randomly allocated to either B. breve M-16V ( 3109 cfu/day ) or placebo ( dextrin ) supplementation until the corrected age 37 weeks .
+METHODS	Stool samples were collected before ( S1 ) and after 3 weeks of supplementation ( S2 ) for studying fecal B. breve levels using quantitative PCR ( Primary outcome ) .
+METHODS	Secondary outcomes included total fecal bifidobacteria and NECStage II .
+METHODS	Categorical and continuous outcomes were analysed using Chi-square and Mann-Whitney tests , and McNemar and Wilcoxon signed-rank tests for paired comparisons .
+RESULTS	A total of 159 neonates ( Probiotic : 79 , Placebo : 80 ) were enrolled .
+RESULTS	Maternal and neonatal demographic characteristics were comparable between the groups .
+RESULTS	The proportion of neonates with detectable B. breve increased significantly post intervention : Placebo : [ S1 :2 / 66 ( 3 % ) , S2 : 25/66 ( 38 % ) , p < 0.001 ] Probiotic : [ S1 : 29/74 ( 40 % ) , S2 : 67/74 ( 91 % ) , p < 0.001 ] .
+RESULTS	Median S1 B. breve counts in both groups were below detection ( < 4.7 log cells x g ( -1 ) ) , increasing significantly in S2 for the probiotic group ( log 8.6 ) while remaining < 4.7 log in the control group ( p < 0.001 ) .
+RESULTS	There were no adverse effects including probiotic sepsis and no deaths .
+RESULTS	NECStage II occurred in only 1 neonate ( placebo group ) .
+CONCLUSIONS	B. breve M-16V is a suitable probiotic strain for routine use in preterm neonates .
+BACKGROUND	Australia New Zealand Clinical Trial Registry ACTRN 12609000374268 .
+
+###25211291
+OBJECTIVE	To investigate the effect of manual physiotherapy and exercises compared with exercises alone in patients with shoulder impingement syndrome one year after inclusion .
+METHODS	Randomized controlled trial .
+METHODS	Patients with shoulder impingement of more than 4 weeks .
+METHODS	The intervention group received individualized manual physiotherapy plus individualized exercises ; the control group received individualized exercises only .
+METHODS	Both groups had 10 treatments over 5 weeks ; afterwards all patients continued their exercises for another 7 weeks at home .
+METHODS	Primary outcomes were the Shoulder Pain and Disability Index and Patients ' Global Impression of Change .
+METHODS	The Generic Patient-Specific Scale was used as secondary outcome .
+METHODS	Costs were recorded in a log-book .
+RESULTS	Ninety patients were included in the study and 87 could be analyzed at 1-year follow-up .
+RESULTS	Both groups showed significant improvements in all outcome measures , but no difference was detected between the groups .
+RESULTS	Only costs differed significantly in favour of the control group ( p = 0.03 ) after 5 weeks .
+CONCLUSIONS	Individualized exercises resulted in lower costs than manual physiotherapy and showed a significant effect on pain and functioning within the whole group after one year .
+CONCLUSIONS	Exercises should therefore be considered as a basic treatment .
+CONCLUSIONS	Due to the progressive improvement that occurred during the follow-up period with individualized exercises further treatments should be delayed for 3 to 4 months .
+
+###24877997
+BACKGROUND	Dengue infection is the most common mosquito-borne viral disease worldwide , but no suitable antiviral drugs are available .
+BACKGROUND	We tested the - glucosidase inhibitor celgosivir as a treatment for acute dengue fever .
+METHODS	To establish eligibility for inclusion in a phase 1b , randomised , double-blind , placebo-controlled , proof-of-concept trial , individuals aged 21-65 years who had had a fever ( 38C ) for less than 48 h , met at least two criteria indicating probable dengue infection , and had a positive result on a dengue point-of-care test kit or PCR assay were referred for screening at a centre in Singapore between July 30 , 2012 , and March 4 , 2013 .
+METHODS	Using a web-based system , we randomly assigned patients who met full inclusion criteria after screening ( 1:1 ; random permuted block length four ) to celgosivir ( initial 400 mg loading dose within 6 h of randomisation , followed by 200 mg every 12 h for a total of nine doses ) or matched placebo .
+METHODS	Patients and the entire study team were masked to group assignment .
+METHODS	The primary endpoints were mean virological log reduction ( VLR ) from baseline for days 2 , 3 , and 4 , and area under the fever curve ( AUC ) for a temperature above 37C from 0 h to 96 h. Efficacy analyses were by intention to treat .
+METHODS	This study is registered with ClinicalTrials.gov , number NCT01619969 .
+RESULTS	We screened 69 patients and randomly assigned 50 ( 24 to celgosivir , 26 to placebo ) .
+RESULTS	Mean VLR was greater in the celgosivir group ( -186 , SD 107 ) than in the placebo group ( -164 , 075 ) , but the difference was non-significant ( -022 , 90 % CI -065 to 022 ; one-sided p = 0203 ) .
+RESULTS	The mean AUC was also higher in the celgosivir group ( 5492 , SD 3104 ) than in the placebo group ( 4072 , 1869 ) , but again the difference was non-significant ( 1420 , 90 % CI 216-2625 ; one-sided p = 0973 ) .
+RESULTS	We noted similar incidences of adverse events between groups .
+CONCLUSIONS	Although generally safe and well tolerated , celgosivir does not seem to reduce viral load or fever burden in patients with dengue .
+BACKGROUND	STOP Dengue Translational Clinical Research .
+
+###24768811
+OBJECTIVE	Patients with cirrhosis have reduced exercise tolerance , measured objectively as decreased peak exercise oxygen uptake ( peak VO2 ) .
+OBJECTIVE	Reduced peak VO2 is associated with decreased survival time .
+OBJECTIVE	The effect of aerobic exercise training on peak VO2 has not been well studied in patients with cirrhosis .
+OBJECTIVE	We evaluated the safety and efficacy of 8 weeks of supervised exercise on peak VO2 , quadriceps muscle thickness , and quality of life .
+METHODS	In a prospective pilot study , stable patients ( 79 % male , 57.6 6.7 years old ) with Child-Pugh class A or B cirrhosis ( mean Model for End-Stage Liver Disease score , 10 2.2 ) were randomly assigned to groups that received exercise training ( n = 9 ) or usual care ( controls , n = 10 ) at the University of Alberta Hospital in Canada from February through June 2013 .
+METHODS	Supervised exercise was performed on a cycle ergometer 3 days/week for 8 weeks at 60 % -80 % of baseline peak VO2 .
+METHODS	Peak VO2 , quadriceps muscle thickness ( measured by ultrasound ) , thigh circumference , answers from Chronic Liver Disease Questionnaires , EQ-visual analogue scales , 6-minute walk distance , and Model for End-Stage Liver Disease scores were evaluated at baseline and at week 8 .
+METHODS	Analysis of covariance was used to compare variables .
+RESULTS	At week 8 , peak VO2 was 5.3 mL/kg/min higher in the exercise group compared with controls ( 95 % confidence interval , 2.9-7 .8 ; P = .001 ) .
+RESULTS	Thigh circumference ( P = .001 ) , thigh muscle thickness ( P = .01 ) , and EQ-visual analogue scale determined self-perceived health status ( P = .01 ) was also significantly higher in the exercise group compared with controls at week 8 ; fatigue subscores of the Chronic Liver Disease Questionnaires were lower in the exercise group compared with controls ( P = .01 ) .
+RESULTS	No adverse events occurred during cardiopulmonary exercise testing or training .
+CONCLUSIONS	In a controlled prospective pilot trial , 8 weeks of supervised aerobic exercise training increased peak VO2 and muscle mass and reduced fatigue in patients with cirrhosis .
+CONCLUSIONS	No relevant adverse effects were observed .
+CONCLUSIONS	Larger trials are needed to evaluate the effects of exercise in patients with cirrhosis .
+CONCLUSIONS	ClinicalTrials.gov number : NCT01799785 .
+
+###24579935
+OBJECTIVE	Guidelines consider certain probiotics useful in the management of acute gastroenteritis .
+OBJECTIVE	This study evaluated the use of Lactobacillus ( L ) reuteri DSM 17938 .
+METHODS	A multicentre , randomised , single-blind clinical trial was performed in hospitalised children with acute gastroenteritis lasting 12-72 h. Children received conventional therapy with , or without , 1 10 ( 8 ) CFU of L. reuteri DSM 17938 for 5 days .
+METHODS	The primary endpoint was the duration of diarrhoea and secondary outcomes were days of hospitalisation and the percentage of children with diarrhoea after each day of treatment .
+RESULTS	We compared 64 children receiving L. reuteri with 63 controls .
+RESULTS	Lactobacillus reuteri reduced the duration of diarrhoea after 24 h ( p < 0.001 ) and more diarrhoea-free children were seen in the L. reuteri than control group after 24 and 48 h ( 50 % versus 5 % , p < 0.001 ) and 72 h ( 69 % versus 11 % , p < 0.001 ) .
+RESULTS	Lactobacillus reuteri reduced mean hospital stays ( 4.31 1.3 days versus 5.46 1.77 days , p < 0.001 ) .
+RESULTS	Prolonged diarrhoea occurred in 17 % of the controls , but none of the L. reuteri group .
+RESULTS	No adverse effects were reported .
+CONCLUSIONS	Lactobacillus reuteri effectively reduced the duration of acute diarrhoea and hospital stays in children hospitalised with acute gastroenteritis .
+CONCLUSIONS	Outpatient data are now required .
+
+###25007676
+OBJECTIVE	To compare postoperative voice recovery time of vocal polyps treated with different power levels of CO2 laser and conventional laryngeal microsurgery on vocal polyps .
+METHODS	Two hundred patients with vocal polyps were randomly divided into four groups , which were respectively treated with conventional laryngeal microsurgery and different power levels of CO2 laser ( 2 W , 4 W and 6 W ) under laryngoscope .
+METHODS	The postoperative voice recovery time were analyzed .
+RESULTS	All vocal polyps were resected at one time without any serious complications like dyspnea or bleeding .
+RESULTS	The postoperative voice recovery time were 7.2 days for the group of patients received conventional laryngeal microsurgery and 7.6 days for the group of patients treated with 2 W CO2 laser , which were hoch significantly different from that in the group of patients treated with 6 W CO2 laser ( P < 0.05 ) .
+CONCLUSIONS	The postoperative recovery time of patients treated with conventional laryngeal microsurgery and small power of CO2 laser is shorter than those operated with the other larger power of CO2 laser .
+
+###24390009
+OBJECTIVE	Low-intensity pulsed ultrasound ( LIPUS ) has been used successfully to accelerate healing of fresh fractures and non-unions .
+OBJECTIVE	It also improved callus maturation with distraction osteogenesis in animal trials .
+OBJECTIVE	However , only few clinical studies are available to support its widespread use for the latter indication in humans .
+METHODS	Twenty-one patients undergoing callus distraction for posttraumatic tibial defects were randomized into two groups : the trial group ( 12 men ; mean age 32 years ) which received 20 minutes LIPUS daily during treatment and the control group ( six men and three women ; mean age 29 years ) without LIPUS treatment .
+METHODS	The Ilizarov ring fixator was used in all cases .
+METHODS	Results were examined clinically and radiologically , analysing callus maturation with a computer-assisted measurement .
+RESULTS	Patients in the LIPUS group needed a mean of 33 days to consolidate every 1 cm of new bone in comparison to 45 days in the control group .
+RESULTS	The healing index was therefore shortened by 12 days/cm in the LIPUS group .
+RESULTS	This means that callus maturation was 27 % faster in the LIPUS group .
+RESULTS	The fixator time was shortened by 95 days in the LIPUS group .
+RESULTS	The overall daily increase in radiographic callus density was 33 % more in the LIPUS group than in the control group .
+CONCLUSIONS	LIPUS treatment is an effective non-invasive adjuvant method to enhance callus maturation in distraction osteogenesis .
+CONCLUSIONS	With the help of this treatment , the healing time and the duration of external fixation can be reliably shortened .
+
+###24756913
+BACKGROUND	Anatomical suitability for arteriovenous fistula ( AVF ) formation was formerly determined by clinical examination alone .
+BACKGROUND	There are potential benefits from imaging to assess anatomical suitability .
+BACKGROUND	Existing studies examined the role of routine preoperative ultrasonography versus clinical examination alone .
+BACKGROUND	The role of a selective duplex ultrasound imaging policy is unknown .
+BACKGROUND	This study aimed to compare a policy of selective versus routine ultrasound assessment before AVF formation .
+METHODS	All patients referred for fistula formation were assessed for inclusion .
+METHODS	Suitable patients were randomized to either routine or selective preoperative ultrasound imaging ; selective imaging was performed only when clinical criteria were not met .
+METHODS	The primary outcome measures were site of AVF formation and 30-day primary failure rate , and secondary outcome measures included the rate of complications .
+RESULTS	A total of 106 patients were assessed , and 94 were randomized : 47 to selective and 47 to routine duplex ultrasonography .
+RESULTS	The groups were well matched for age , co-morbidities and medications .
+RESULTS	The primary failure rate ( 29 per cent overall ) was not significantly different between the selective and routine imaging groups : 36 per cent ( 14 of 39 ) and 21 per cent ( 8 of 38 ) respectively ( P = 0144 ) .
+RESULTS	There were no significant differences in the sites of AVF formation or complication rates .
+CONCLUSIONS	Routine preoperative ultrasound vessel imaging did not significantly reduce early failure rates , influence the site of AVF formation or reduce complications .
+CONCLUSIONS	If clinical evaluation detects anatomy suitable for AVF formation , duplex imaging may not be needed .
+BACKGROUND	NCT01004627 ( http://www.clinicaltrials.gov ) .
+
+###24238397
+BACKGROUND	Medication adherence is critical for patient treatment .
+BACKGROUND	This study involved evaluating how implementing Short Message Service ( SMS ) reminders affected patient medication adherence and related factors .
+METHODS	We used a structured questionnaire to survey outpatients at three medical centers .
+METHODS	Patients aged 20 years and older who were prescribed more than 7 days of a prescription medication were randomized into SMS intervention or control groups .
+METHODS	The intervention group received daily messages reminding them of aspects regarding taking their medication ; the control group received no messages .
+METHODS	A phone follow-up was performed to assess outcomes after 8 days .
+METHODS	Data were collected from 763 participants in the intervention group and 435 participants in the control group .
+RESULTS	After participants in the intervention group received SMS reminders to take medication or those in the control group received no messages , incidences of delayed doses were decreased by 46.4 and 78.8 % for those in the control and intervention groups , respectively .
+RESULTS	The rate of missed doses was decreased by 90.1 % for participants in the intervention group and 61.1 % for those in the control group .
+RESULTS	We applied logistic regression analysis and determined that participants in the intervention group had a 3.2-fold higher probability of having a decrease in delayed doses compared with participants in the control group .
+RESULTS	Participants in the intervention group also showed a 2.2-fold higher probability of having a decrease in missed doses compared with participants in the control group .
+CONCLUSIONS	Use of SMS significantly affected the rates of taking medicine on schedule .
+CONCLUSIONS	Therefore , daily SMS could be useful for reminding patients to take their medicine on schedule .
+
+###24802974
+OBJECTIVE	Olfactory loss impairs the patient 's quality of life .
+OBJECTIVE	In individualized therapies , olfactory drug effects gain clinical importance .
+OBJECTIVE	Molecular evidence suggests that among drugs with potential olfactory effects is ( 9 ) - tetrahydrocannabinol ( THC ) , which is approved for several indications , including neuropathic pain or analgesia in cancer patients .
+OBJECTIVE	The present study aimed at assessing the olfactory effects of THC to be expected during analgesic treatment .
+METHODS	The effects of 20mg oral THC on olfaction were assessed in a placebo-controlled , randomized cross-over study in healthy volunteers .
+METHODS	Using an established olfactory test ( Sniffin ' Sticks ) , olfactory thresholds , odour discrimination and odour identification were assessed in 15 subjects at baseline and 2h after THC administration .
+RESULTS	( 9 ) - Tetrahydrocannabinol impaired the performance of subjects ( n = 15 ) in the olfactory test .
+RESULTS	Specifically , olfactory thresholds were increased and odour discrimination performance was reduced .
+RESULTS	This resulted in a significant drop in composite threshold , discrimination , identification ( TDI ) olfactory score by 5.5 points ( from 37.7 4.2 to 32.2 5.6 , 95 % confidence interval for differences THCvs .
+RESULTS	placebo , -7.8 to -2.0 , P = 0.003 ) , which is known to be a subjectively perceptible impairment of olfactory function .
+CONCLUSIONS	Considering the resurgence of THC in medical use for several pathological conditions , the present results indicate that THC-based analgesics may be accompanied by subjectively noticeable reductions in olfactory acuity .
+CONCLUSIONS	In particular , for patients relying on their sense of smell , this might be relevant information for personalized therapy strategies .
+
+###24398718
+OBJECTIVE	The purpose of this study was to examine the feasibility of core stabilization exercise with real-time feedback on balance and gait function in patients with chronic hemiparetic stroke .
+METHODS	Nineteen stroke subjects were enrolled in this study .
+METHODS	The patients were randomly divided into the experimental ( n = 10 ) and control groups ( n = 9 ) .
+METHODS	Subjects in the experimental group performed core stabilization exercise with real-time feedback training for 30 minutes per day during a period of six weeks .
+METHODS	Subjects in the control group performed core stabilization exercise during the same period .
+METHODS	This study assessed the kinematic parameters using a portable walkway system , and timed up-and-go test .
+RESULTS	Gait velocity showed significantly greater improvement in the experimental group ( 7.3 5.0 sec ) than in the control group ( -0.7 10.6 ) .
+RESULTS	Stride length showed significantly greater increase in the experimental group ( 13.2 7.9 on the affected side and 12.6 8.0 on the less affected side ) than the control group ( 3.5 8.7 on the affected side and 3.4 8.5 on the less affected side ) .
+RESULTS	After training , change in results on the timed up and go test was significantly greater in the experimental group than in the control group .
+CONCLUSIONS	Core stabilization exercise using real-time feedback produces greater improvement in gait performance in chronic hemiparetic stroke patients than core stabilization exercise only .
+
+###26100611
+BACKGROUND	Interparental violence is both common and harmful and impacts children 's lives directly and indirectly .
+BACKGROUND	Direct effects refer to affective , behavioral , and cognitive responses to interparental violence and psychosocial adjustment .
+BACKGROUND	Indirect effects refer to deteriorated parental availability and parent-child interaction .
+BACKGROUND	Standard Trauma Focused Cognitive Behavioral Therapy may be insufficient for children traumatized by exposure to interparental violence , given the pervasive impact of interparental violence on the family system .
+BACKGROUND	HORIZON is a trauma focused cognitive behavioral therapy based group program with the added component of a preparatory parenting program aimed at improving parental availability ; and the added component of parent-child sessions to improve parent-child interaction .
+METHODS	This is a multicenter , multi-informant and multi-method randomized clinical trial study with a 2 by 2 factorial experimental design .
+METHODS	Participants ( N = 100 ) are children ( 4-12 years ) , and their parents , who have been exposed to interparental violence .
+METHODS	The main aim of the study is to test the effects of two parental components as an addition to a trauma focused cognitive behavioral based group therapy for reducing children 's symptoms .
+METHODS	Primary outcome measures are posttraumatic stress symptoms , and internalizing and externalizing problems in children .
+METHODS	The secondary aim of the study is to test the effect of the two added components on adjustment problems in children and to test whether enhanced effects can be explained by changes in children 's responses towards experienced violence , in parental availability , and in quality of parent-child interaction .
+METHODS	To address this secondary aim , the main parameters are observational and questionnaire measures of parental availability , parent-child relationship variables , children 's adjustment problems and children 's responses to interparental violence .
+METHODS	Data are collected three times : before and after the program and six months later .
+METHODS	Both intention-to-treat and completer analyses will be done .
+CONCLUSIONS	The current study will enhance our understanding of the efficacy interparental violence-related parental components added to trauma focused cognitive behavioral group program for children who have been exposed to IPV .
+CONCLUSIONS	It will illuminate mechanisms underlying change by considering multiple dimensions of child responses , parenting variables and identify selection criteria for participation in treatment .
+BACKGROUND	Netherlands Trial Register NTR4015 .
+BACKGROUND	Registered 4th of June , 2013 .
+
+###24447063
+OBJECTIVE	The epilepsy treatment gap is largest in resource-poor countries .
+OBJECTIVE	We evaluated the efficacy of a 1-day health education program in a rural area of Kenya .
+OBJECTIVE	The primary outcome was adherence to antiepileptic drugs ( AEDs ) as measured by drug levels in the blood , and the secondary outcomes were seizure frequency and Kilifi Epilepsy Beliefs and Attitudes Scores ( KEBAS ) .
+METHODS	Seven hundred thirty-eight people with epilepsy ( PWE ) and their designated supporter were randomized to either the intervention ( education ) or nonintervention group .
+METHODS	Data were collected at baseline and 1year after the education intervention was administered to the intervention group .
+METHODS	There were 581 PWE assessed at both time points .
+METHODS	At the end of the study , 105 PWE from the intervention group and 86 from the nonintervention group gave blood samples , which were assayed for the most commonly used AEDs ( phenobarbital , phenytoin , and carbamazepine ) .
+METHODS	The proportions of PWE with detectable AED levels were determined using a standard blood assay method .
+METHODS	The laboratory technicians conducting the assays were blinded to the randomization .
+METHODS	Secondary outcomes were evaluated using questionnaires administered by trained field staff .
+METHODS	Modified Poisson regression was used to investigate the factors associated with improved adherence ( transition from nonoptimal AED level in blood at baseline to optimal levels at follow-up ) , reduced seizures , and improved KEBAS , which was done as a post hoc analysis .
+METHODS	This trial is registered in ISRCTN register under ISRCTN35680481 .
+RESULTS	There was no significant difference in adherence to AEDs based on detectable drug levels ( odds ratio [ OR ] 1.46 , 95 % confidence interval [ 95 % CI ] 0.74-2 .90 , p = 0.28 ) or by self-reports ( OR 1.00 , 95 % CI 0.71-1 .40 , p = 1.00 ) between the intervention and nonintervention group .
+RESULTS	The intervention group had significantly fewer beliefs about traditional causes of epilepsy , cultural treatment , and negative stereotypes than the nonintervention group .
+RESULTS	There was no difference in seizure frequency .
+RESULTS	A comparison of the baseline and follow-up data showed a significant increase in adherence-intervention group ( 36-81 % [ p < 0.001 ] ) and nonintervention group ( 38-74 % [ p < 0.001 ] ) - using detectable blood levels .
+RESULTS	The number of patients with less frequent seizures ( 3 seizures in the last 3months ) increased in the intervention group ( 62-80 % [ p = 0.002 ] ) and in the nonintervention group ( 67-75 % [ p = 0.04 ] ) .
+RESULTS	Improved therapeutic adherence ( observed in both groups combined ) was positively associated with positive change in beliefs about risks of epilepsy ( relative risk [ RR ] 2.00 , 95 % CI 1.03-3 .95 ) and having nontraditional religious beliefs ( RR 2.01 , 95 % CI 1.01-3 .99 ) .
+RESULTS	Reduced seizure frequency was associated with improved adherence ( RR 1.72 , 95 % CI 1.19-2 .47 ) .
+RESULTS	Positive changes in KEBAS were associated with having tertiary education as compared to none ( RR 1.09 , 95 % CI 1.05-1 .14 ) .
+CONCLUSIONS	Health education improves knowledge about epilepsy , but once only contact does not improve adherence .
+CONCLUSIONS	However , sustained education may improve adherence in future studies .
+
+###24354588
+BACKGROUND	Vaccine effectiveness is usually determined in randomized controlled trials ( RCT ) and if effective , additional information , e.g. on cost-effectiveness , is required to allow evidence-based decision making .
+BACKGROUND	A prerequisite for proper health economic modelling is the availability of good quality data on health care resources use , health outcomes and quality-of-life ( QoL ) data .
+BACKGROUND	The `` Collecting health outcomes and economic data on hospitalized Community Acquired Pneumonia ( CHO-CAP ) -- a prospective cohort study '' is executed alongside the Community Acquired Pneumonia Immunization Trial with Adults ( CAPiTA trial ) to capture health outcomes and economic data of elderly hospitalized with CAP and matched controls without CAP .
+METHODS	CAPiTA is a placebo-controlled double-blind RCT evaluating the effectiveness of a 13-valent conjugated pneumococcal vaccine in preventing vaccine-type pneumococcal CAP in 84,496 elderly in the Netherlands .
+METHODS	Participants of CAPiTA , who consented and provided information on health status ( EQ-5D ) and socio-demographic background at the time of vaccination , constitute the source population of CHO-CAP and are eligible for the nested matched cohort study .
+METHODS	CHO-CAP patients hospitalized with CAP form the `` diseased '' cohort and the `` non-diseased '' cohort consists of unaffected persons ( i.e. no CAP ) .
+METHODS	Observations in the diseased cohort and in matched controls from the non-diseased cohort are used to determine excess costs and QoL changes attributable to CAP.Based on an estimated 2,000 CAPiTA participants being hospitalized with CAP and an assumed CHO-CAP participation rate of 30 % of all CAPiTA participants ( 25,000 ) , 600 CAP episodes are expected among CHO-CAP participants ( the `` diseased '' cohort ) .
+METHODS	For each patient with CAP , two non-diseased CHO-CAP subjects will be selected from the CHO-CAP cohort , with matching for age , gender and EQ-5D baseline-score .
+METHODS	Data on healthcare and non-healthcare resources use , quality-of-life ( using EQ-5D and SF-36 questionnaires ) and selected health outcomes will be collected at 0 , 1 , 6 and 12 months after hospitalization for CAP.The CHO-CAP study was approved by the Central Committee on Research involving Human Subjects in the Netherlands .
+CONCLUSIONS	With an expected 600 CAP episodes this study will be one of the biggest prospectively studied cohorts of hospitalized elderly with CAP with regard to resources use and Qol data .
+CONCLUSIONS	Strengths of this study further include collection of out-of-pocket costs of patients and productivity losses of both patients and their caregivers and the follow-up period of up to one year post-discharge .
+CONCLUSIONS	This study is therefore expected to add more in-depth knowledge on the short and longer term outcomes of pneumonia in elderly .
+BACKGROUND	ClinicalTrials.gov , NCT00812084 .
+
+###25399273
+OBJECTIVE	The role of vascular closure devices ( VCD ) for the achievement of hemostasis in patients undergoing transfemoral coronary angiography remains controversial .
+OBJECTIVE	To compare outcomes with the use of 2 hemostasis strategies after diagnostic coronary angiography performed via transfemoral access-a VCD-based strategy with 2 types of devices , an intravascular device and an extravascular device , vs standard manual compression .
+OBJECTIVE	The primary hypothesis to be tested was that femoral hemostasis achieved through VCD is noninferior to manual compression in terms of vascular access-site complications .
+OBJECTIVE	A secondary objective was the comparison of the 2 types of VCD .
+METHODS	Randomized , large-scale , multicenter , open-label clinical trial .
+METHODS	We enrolled 4524 patients undergoing coronary angiography with a 6 French sheath via the common femoral artery from April 2011 through May 2014 in 4 centers in Germany .
+METHODS	Last 30-day follow-up was performed in July 2014 .
+METHODS	After angiography of the access site , patients were randomized to hemostasis with an intravascular VCD , extravascular VCD , or manual compression in a 1:1:1 ratio .
+METHODS	Primary end point : the composite of access site-related vascular complications at 30 days after randomization with a 2 % noninferiority margin .
+METHODS	Secondary end points : time to hemostasis , repeat manual compression , and VCD failure .
+METHODS	An - level of .025 was chosen for primary and secondary comparisons .
+RESULTS	Of the 4524 enrolled patients , 3015 were randomly assigned to a VCD group ( 1509 received intravascular VCD and 1506 received extravascular VCD ) and 1509 patients were randomly assigned to the manual compression group .
+RESULTS	Before hospital discharge , duplex sonography of the access site was performed in 4231 ( 94 % ) patients .
+RESULTS	The primary end point was observed in 208 patients ( 6.9 % ) assigned to receive a VCD and 119 patients ( 7.9 % ) assigned to manual compression ( difference , -1.0 % [ 1-sided 97.5 % CI , 0.7 % ] ; P for noninferiority < .001 ) .
+RESULTS	Time to hemostasis was significantly shorter in patients with VCD ( 1 minute [ interquartile range { IQR } , 0.5-2 .0 ] ) , vs manual compression ( 10 minutes [ IQR , 10-15 ] ; P < .001 ) .
+RESULTS	Time to hemostasis was significantly shorter among patients with intravascular VCD ( 0.5 minute [ IQR , 0.2-1 .0 ] ) , vs extravascular VCD ( 2.0 minutes [ IQR , 1.0-2 .0 ] ; P < .001 ) and closure device failure was also significantly lower among those with intravascular vs extravascular VCD ( 80 patients [ 5.3 % ] , vs 184 patients [ 12.2 % ] ; P < .001 ) .
+CONCLUSIONS	In patients undergoing transfemoral coronary angiography , VCDs were noninferior to manual compression in terms of vascular access-site complications and reduced time to hemostasis .
+BACKGROUND	clinicaltrials.gov Identifier : NCT01389375 .
+
+###25525195
+OBJECTIVE	Maximizing ART efficiency is of growing interest .
+OBJECTIVE	This study assessed the efficacy , safety , pharmacokinetics and economics of a darunavir dose-reduction strategy .
+METHODS	This was a multicentre , randomized , open-label clinical trial in HIV-infected patients with plasma HIV-1 RNA < 50 copies/mL while receiving triple ART including 800 mg of darunavir once daily .
+METHODS	Participants were randomized to continue 800 mg of darunavir ( DRV800 ) or to 600 mg of darunavir ( DRV600 ) , both once daily .
+METHODS	Treatment failure was defined as two consecutive HIV-1 RNA determinations > 50 copies/mL or discontinuation of study treatment by week 48 .
+METHODS	The study was registered at https://www.clinicaltrialsregister.eu ( trial number 2011-006272-39 ) .
+RESULTS	Fifty participants were allocated to each arm .
+RESULTS	The mean ( SD ) CD4 + T cell count at baseline was 562 ( 303 ) cells/mm ( 3 ) and HIV-1 RNA had been < 50 copies/mL for a median ( IQR ) of 106.9 ( 43.4-227 .9 ) weeks before enrolment .
+RESULTS	At week 48 no treatment failure had occurred in 45/50 ( 90 % ) DRV600 patients and in 47/50 ( 94 % ) DRV800 patients ( difference -4 % ; 95 % CI lower limit , -12.9 % ) .
+RESULTS	When only patients with virological data were considered , that endpoint was met by 45/48 ( 94 % ) in the DRV600 arm and 47/49 ( 96 % ) in the DRV800 arm ( difference -2.2 % ; 95 % CI lower limit , -9.6 % ) .
+RESULTS	Darunavir exposure was similar in the two arms .
+RESULTS	The average reduction in annual cost per successfully treated DRV600-arm patient was US$ 7273 .
+CONCLUSIONS	The efficacy of a darunavir daily dose of 600 mg seemed to be similar to the efficacy of the standard 800 mg dose in virologically suppressed HIV-infected patients on triple ART .
+CONCLUSIONS	This strategy can potentially translate to substantial savings in the cost of care of HIV-infected patients .
+
+###25315167
+BACKGROUND	The postpartum period can be a challenging time particularly for first-time mothers .
+BACKGROUND	This study aimed to assess two different interventions designed to reduce stress in the postpartum among first-time mothers .
+METHODS	Healthy first-time mothers with healthy newborns were recruited from hospitals in Beirut , Lebanon after delivery .
+METHODS	The two interventions were a 20-minute film addressing common stressors in the postpartum period and a 24-hour telephone support hotline .
+METHODS	Participants were randomized to one of four study arms to receive either the postpartum support film , the hotline service , both interventions , or a music CD ( control ) .
+METHODS	Participants were interviewed at eight to twelve weeks postpartum for assessment of levels of stress as measured by the Cohen Perceived Stress Scale ( PSS-10 ) .
+RESULTS	Of the 632 eligible women , 552 ( 88 % ) agreed to participate in the study .
+RESULTS	Of those , 452 ( 82 % ) completed the study .
+RESULTS	Mean PSS-10 scores of mothers who received the film alone ( 15.76 ) or the film with the hotline service ( 15.86 ) were significantly lower than that of the control group ( 18.93 ) ( p-value < 0.01 ) .
+RESULTS	Among mothers who received the hotline service alone mean PSS-10 score ( 16.98 ) was also significantly lower than that of the control group ( p-value < 0.05 ) .
+CONCLUSIONS	Both our postpartum support film and the 24-hour telephone hotline service reduced stress in the postpartum period in first-time mothers .
+CONCLUSIONS	These simple interventions can be easily implemented and could have an important impact on the mental wellbeing of new mothers .
+BACKGROUND	The trial was registered with clinicaltrials.gov ( identifier # NCT00857051 ) on March 5 , 2009 .
